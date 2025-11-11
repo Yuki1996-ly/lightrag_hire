@@ -1,0 +1,46 @@
+{
+  "doc-b6a3b78526bfe29a8a456c361938f18d": {
+    "status": "processed",
+    "chunks_count": 5,
+    "chunks_list": [
+      "chunk-a9ea347ca1eb9d2c7c390bcf9cf1f2b9",
+      "chunk-7843aef06d0c82abc4641013a7c73c16",
+      "chunk-127c4c8507dfbf71eddd6f36a7eaaffa",
+      "chunk-3b940ac944d96bc6895551a8e00a77ba",
+      "chunk-f66bfb9283d8f00ff346a99b9a0f998d"
+    ],
+    "content_summary": "张磊 点击此处联系候选人\n\n应聘职位：新媒体运营应聘企业：北京言洲科技有限公司\n\n工作地点：科苑路  \n手机：15811041167  \n邮箱：zhanglei0614@foxmail.com\n\n基本信息\n\n男|36岁（1988年7月）工作14年|本科在职-看看机会现居住地：廊坊|户口：廊坊\n\n$\\pmb { \\circ }$ 求职意向\n\n创意总监北京\n\n2万-3万/月 | 不限业 | 全职\n\n平面设计北京 112万-3万/月 不限行业|全职\n\n广告美术指导北京\n\n2万-3万/月 不限行业|全职...",
+    "content_length": 2640,
+    "created_at": "2025-11-09T02:25:23.991744+00:00",
+    "updated_at": "2025-11-09T10:32:16+00:00",
+    "file_path": "0a0b384ab34d44ab86094891776925fe.pdf",
+    "track_id": "insert_20251109_102523_31d59360",
+    "metadata": {
+      "processing_start_time": 1762655198,
+      "processing_end_time": 1762655485
+    },
+    "multimodal_processed": true
+  },
+  "doc-8f1111450c3a53ec7fab71d07388ff4d": {
+    "status": "processed",
+    "chunks_count": 5,
+    "chunks_list": [
+      "chunk-24e47bfa872fdc7862d9134a6bef2e74",
+      "chunk-2486ce00736ec9033245d29f1f2ba3db",
+      "chunk-5a8546f5022b0a9f43203a6565c649dc",
+      "chunk-3deaad5a7aa48f15477bdbc72813f61e",
+      "chunk-f83ea90fdf82e83495ca08290eb06337"
+    ],
+    "content_summary": "于欣 点击此处联系候选人\n\n应聘职位：大客户销售应聘企业：北京印先行管理咨询有限公司\n\n作地点：神州数码厦手机：15145133177\n\n基本信\n\n女|38岁（1986年10月）|工作20年|大专|在职-看看机会现居住地：北京\n\n$\\pmb { \\circ }$ 求职意向\n\n销售团队经理北京\n\n1.1万-2.2万/月|食品/饮料|兼职/临时、全职 \n\n大客户代表北京\n\n1万-1.5万/|不限业全职 \n\n工作经历\n\n天津誉奥商贸有限公司大客户代表\n\n10001－15000元/月 2024.07－至...",
+    "content_length": 957,
+    "created_at": "2025-11-09T02:26:00.730108+00:00",
+    "updated_at": "2025-11-09T10:33:25+00:00",
+    "file_path": "0b51280804da4b20bfc97b518cdcfa40.pdf",
+    "track_id": "insert_20251109_102600_fd713675",
+    "metadata": {
+      "processing_start_time": 1762655198,
+      "processing_end_time": 1762655365
+    },
+    "multimodal_processed": true
+  }
+}

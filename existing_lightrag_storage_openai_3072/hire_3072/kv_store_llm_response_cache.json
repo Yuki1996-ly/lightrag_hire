@@ -1,0 +1,62 @@
+{
+  "hybrid:keywords:12182f4bc4ac0dbfba7a8219e202074b": {
+    "return": "{\"high_level_keywords\": [\"\\u5de5\\u4f5c\\u7ecf\\u9a8c\", \"\\u804c\\u4e1a\\u80cc\\u666f\", \"\\u5de5\\u4f5c\\u7ecf\\u5386\"], \"low_level_keywords\": [\"\\u674e\\u6cfd\\u9f99\"]}",
+    "cache_type": "keywords",
+    "chunk_id": null,
+    "original_prompt": "李泽龙的工作经验如何",
+    "queryparam": {
+      "mode": "hybrid",
+      "response_type": "Multiple Paragraphs",
+      "top_k": 40,
+      "chunk_top_k": 20,
+      "max_entity_tokens": 6000,
+      "max_relation_tokens": 8000,
+      "max_total_tokens": 30000,
+      "user_prompt": "",
+      "enable_rerank": true
+    },
+    "create_time": 1762788405,
+    "update_time": 1762788405,
+    "_id": "hybrid:keywords:12182f4bc4ac0dbfba7a8219e202074b"
+  },
+  "local:keywords:5ef7dc6e6b5862263e5df834ea6d4f55": {
+    "return": "{\"high_level_keywords\": [\"\\u5de5\\u4f5c\\u7ecf\\u9a8c\", \"\\u804c\\u4e1a\\u80cc\\u666f\", \"\\u5de5\\u4f5c\\u7ecf\\u5386\"], \"low_level_keywords\": [\"\\u674e\\u6cfd\\u9f99\"]}",
+    "cache_type": "keywords",
+    "chunk_id": null,
+    "original_prompt": "李泽龙的工作经验如何",
+    "queryparam": {
+      "mode": "local",
+      "response_type": "Multiple Paragraphs",
+      "top_k": 40,
+      "chunk_top_k": 20,
+      "max_entity_tokens": 6000,
+      "max_relation_tokens": 8000,
+      "max_total_tokens": 30000,
+      "user_prompt": "",
+      "enable_rerank": true
+    },
+    "create_time": 1762788486,
+    "update_time": 1762788486,
+    "_id": "local:keywords:5ef7dc6e6b5862263e5df834ea6d4f55"
+  },
+  "hybrid:keywords:364c8fd6b3817b7bcc3826d2e3cf9790": {
+    "return": "{\"high_level_keywords\": [\"\\u5de5\\u4f5c\\u7ecf\\u5386\", \"\\u804c\\u4e1a\\u80cc\\u666f\", \"\\u804c\\u4e1a\\u751f\\u6daf\"], \"low_level_keywords\": [\"\\u5f90\\u4e2d\\u5929\"]}",
+    "cache_type": "keywords",
+    "chunk_id": null,
+    "original_prompt": "徐中天的工作经历如何",
+    "queryparam": {
+      "mode": "hybrid",
+      "response_type": "Multiple Paragraphs",
+      "top_k": 40,
+      "chunk_top_k": 20,
+      "max_entity_tokens": 6000,
+      "max_relation_tokens": 8000,
+      "max_total_tokens": 30000,
+      "user_prompt": "",
+      "enable_rerank": true
+    },
+    "create_time": 1762789528,
+    "update_time": 1762789528,
+    "_id": "hybrid:keywords:364c8fd6b3817b7bcc3826d2e3cf9790"
+  }
+}

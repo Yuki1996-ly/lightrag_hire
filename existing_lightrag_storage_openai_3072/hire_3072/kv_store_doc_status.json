@@ -1,0 +1,48 @@
+{
+  "doc-e0d8f9174790d4da9f107eae0b80cae9": {
+    "status": "failed",
+    "error_msg": "Unexpected Response: 400 (Bad Request)\nRaw response content:\nb'{\"status\":{\"error\":\"Wrong input: Vector dimension error: expected dim: 1024, got 3072\"},\"time\":0.004105329}'",
+    "content_summary": "李 泽 龙\n\n求职意向：信息化项目经理 期望薪资：16K 预计到岗时间：（在职-月内到岗）\n\n25 岁 北京市朝阳区 17301399789 17301399789@sina.cn\n\n个人简述：拥有超五年工作经验，其中三年乙方与两年甲方的不同工作经历，使我在采购供应链业务领域信息化建设方面积累了很多经验。在乙方工作期间，通过参与多个 WMS 项目交付，懂得如何深入了解不同行业客户需求与数字化解决方案落地；在甲方工作的两年，致力于集团采购供应链业务信息化升级，进一步熟悉企业内部流程与战略规划。对自...",
+    "content_length": 4765,
+    "created_at": "2025-11-10T15:25:15.110971+00:00",
+    "updated_at": "2025-11-10T16:03:02.321443+00:00",
+    "file_path": "0bf2b48b051d4d9998cb4cb4e71b4853.pdf",
+    "track_id": "insert_20251110_232515_3082d878",
+    "metadata": {
+      "processing_start_time": 1762790576,
+      "processing_end_time": 1762790582
+    },
+    "chunks_list": []
+  },
+  "doc-acab7c5b98c4031255c2bf17f183386d": {
+    "status": "failed",
+    "error_msg": "Unexpected Response: 400 (Bad Request)\nRaw response content:\nb'{\"status\":{\"error\":\"Wrong input: Vector dimension error: expected dim: 1024, got 3072\"},\"time\":0.003676427}'",
+    "content_summary": "徐中天\n\n在职，急寻新工作\n\n男 | 33 岁 | 上海 | 本科 | 工作 11 年 | 当前薪资： $2 3 \\mathsf { k } \\times 1 4$ 薪  \n消费者洞察经理 | 薇诺娜 | 日化  \n邮箱：1042146168@qq.com  \n手机：15902183297\n\n联系 TA\n\n求职意向\n\n人力资源专员/助理 | 上海 | 8-11k×12 薪全部行业\n\n市场调研与分析 | 上海 | $1 5 { - } 2 0 \\mathbf { k } \\times 1 3$ 薪...",
+    "content_length": 4450,
+    "created_at": "2025-11-10T15:43:38.630511+00:00",
+    "updated_at": "2025-11-10T16:03:03.191578+00:00",
+    "file_path": "0dd9dd30d74e4aa9a45a804dc1af90c0.pdf",
+    "track_id": "insert_20251110_234338_cb62a233",
+    "metadata": {
+      "processing_start_time": 1762790576,
+      "processing_end_time": 1762790583
+    },
+    "chunks_list": []
+  },
+  "doc-e5d014c1c2f94bfd6653a81e4d7fc4f7": {
+    "status": "failed",
+    "error_msg": "Unexpected Response: 400 (Bad Request)\nRaw response content:\nb'{\"status\":{\"error\":\"Wrong input: Vector dimension error: expected dim: 1024, got 3072\"},\"time\":0.003563501}'",
+    "content_summary": "Dummy PDF file",
+    "content_length": 14,
+    "created_at": "2025-11-10T15:59:33.843369+00:00",
+    "updated_at": "2025-11-11T00:03:04+00:00",
+    "file_path": "dummy.pdf",
+    "track_id": "insert_20251110_235933_4def6594",
+    "metadata": {
+      "processing_start_time": 1762790582,
+      "processing_end_time": 1762790584
+    },
+    "chunks_list": [],
+    "multimodal_processed": true
+  }
+}

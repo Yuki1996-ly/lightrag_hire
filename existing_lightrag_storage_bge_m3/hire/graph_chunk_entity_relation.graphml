@@ -1,0 +1,2883 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d13" for="edge" attr.name="truncate" attr.type="string" />
+  <key id="d12" for="edge" attr.name="created_at" attr.type="long" />
+  <key id="d11" for="edge" attr.name="file_path" attr.type="string" />
+  <key id="d10" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d9" for="edge" attr.name="keywords" attr.type="string" />
+  <key id="d8" for="edge" attr.name="description" attr.type="string" />
+  <key id="d7" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d6" for="node" attr.name="truncate" attr.type="string" />
+  <key id="d5" for="node" attr.name="created_at" attr.type="long" />
+  <key id="d4" for="node" attr.name="file_path" attr.type="string" />
+  <key id="d3" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d2" for="node" attr.name="description" attr.type="string" />
+  <key id="d1" for="node" attr.name="entity_type" attr.type="string" />
+  <key id="d0" for="node" attr.name="entity_id" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Ganoderma">
+      <data key="d0">Ganoderma</data>
+      <data key="d1">organization</data>
+      <data key="d2">Ganoderma is a brand for which the individual was responsible for online promotional design work.</data>
+      <data key="d3">chunk-7843aef06d0c82abc4641013a7c73c16</data>
+      <data key="d4">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d5">1762658338</data>
+      <data key="d6" />
+    </node>
+    <node id="Qingniu Technology">
+      <data key="d0">Qingniu Technology</data>
+      <data key="d1">organization</data>
+      <data key="d2">Qingniu Technology is a company for which the individual was responsible for design work, primarily building HTML5.&lt;SEP&gt;Qingniu Technology is a client for which Zhang Lei primarily worked on HTML5 development at Beijing Century Longwen.</data>
+      <data key="d3">chunk-7843aef06d0c82abc4641013a7c73c16&lt;SEP&gt;chunk-a9ea347ca1eb9d2c7c390bcf9cf1f2b9</data>
+      <data key="d4">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d5">1762658338</data>
+      <data key="d6" />
+    </node>
+    <node id="Tsingtao Brewery">
+      <data key="d0">Tsingtao Brewery</data>
+      <data key="d1">organization</data>
+      <data key="d2">Tsingtao Brewery is a company for which the individual was responsible for online promotion design work.</data>
+      <data key="d3">chunk-7843aef06d0c82abc4641013a7c73c16</data>
+      <data key="d4">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d5">1762658338</data>
+      <data key="d6" />
+    </node>
+    <node id="Shanghai Bright Food Group">
+      <data key="d0">Shanghai Bright Food Group</data>
+      <data key="d1">organization</data>
+      <data key="d2">Shanghai Bright Food Group is a corporation under which the Jiuhutang brand operates.&lt;SEP&gt;Shanghai Bright Food Group is a parent company for which Zhang Lei handled brand promotion for its subsidiary Jiuhutang at Beijing Century Longwen.</data>
+      <data key="d3">chunk-7843aef06d0c82abc4641013a7c73c16&lt;SEP&gt;chunk-a9ea347ca1eb9d2c7c390bcf9cf1f2b9</data>
+      <data key="d4">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d5">1762658338</data>
+      <data key="d6" />
+    </node>
+    <node id="Jiuhutang">
+      <data key="d0">Jiuhutang</data>
+      <data key="d1">organization</data>
+      <data key="d2">Jiuhutang is a brand under Shanghai Bright Food Group, for which the individual handled brand promotion and event design materials.&lt;SEP&gt;Jiuhutang is a subsidiary of Shanghai Bright Food Group for which Zhang Lei handled brand promotion and activity design at Beijing Century Longwen.</data>
+      <data key="d3">chunk-7843aef06d0c82abc4641013a7c73c16&lt;SEP&gt;chunk-a9ea347ca1eb9d2c7c390bcf9cf1f2b9</data>
+      <data key="d4">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d5">1762658338</data>
+      <data key="d6" />
+    </node>
+    <node id="GAC Toyota">
+      <data key="d0">GAC Toyota</data>
+      <data key="d1">organization</data>
+      <data key="d2">GAC Toyota is a company for which the individual was responsible for designing offline event materials.&lt;SEP&gt;GAC Toyota is a client for which Zhang Lei was responsible for offline activities at Beijing Century Longwen.</data>
+      <data key="d3">chunk-7843aef06d0c82abc4641013a7c73c16&lt;SEP&gt;chunk-a9ea347ca1eb9d2c7c390bcf9cf1f2b9</data>
+      <data key="d4">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d5">1762658338</data>
+      <data key="d6" />
+    </node>
+    <node id="Longwen">
+      <data key="d0">Longwen</data>
+      <data key="d1">organization</data>
+      <data key="d2">Longwen is the individual's own company for which they handled VI extension design.</data>
+      <data key="d3">chunk-7843aef06d0c82abc4641013a7c73c16</data>
+      <data key="d4">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d5">1762658338</data>
+      <data key="d6" />
+    </node>
+    <node id="An Advertising Company">
+      <data key="d0">An Advertising Company</data>
+      <data key="d1">organization</data>
+      <data key="d2">An advertising and exhibition company where the individual worked as a graphic designer.</data>
+      <data key="d3">chunk-7843aef06d0c82abc4641013a7c73c16</data>
+      <data key="d4">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d5">1762658338</data>
+      <data key="d6" />
+    </node>
+    <node id="Qinghe Wucaicheng Mall">
+      <data key="d0">Qinghe Wucaicheng Mall</data>
+      <data key="d1">location</data>
+      <data key="d2">Qinghe Wucaicheng Mall is a shopping center for which the individual handled daily advertising production.</data>
+      <data key="d3">chunk-7843aef06d0c82abc4641013a7c73c16</data>
+      <data key="d4">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d5">1762658340</data>
+      <data key="d6" />
+    </node>
+    <node id="Beijing Yinhe Changlong Investment Co., Ltd.">
+      <data key="d0">Beijing Yinhe Changlong Investment Co., Ltd.</data>
+      <data key="d1">organization</data>
+      <data key="d2">Beijing Yinhe Changlong Investment Co., Ltd. is a company where the individual worked in the planning department on advertising creative design.</data>
+      <data key="d3">chunk-7843aef06d0c82abc4641013a7c73c16</data>
+      <data key="d4">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d5">1762658343</data>
+      <data key="d6" />
+    </node>
+    <node id="Yitong Jiaye">
+      <data key="d0">Yitong Jiaye</data>
+      <data key="d1">organization</data>
+      <data key="d2">Yitong Jiaye is a company where the individual worked in the planning department as a graphic designer.</data>
+      <data key="d3">chunk-7843aef06d0c82abc4641013a7c73c16</data>
+      <data key="d4">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d5">1762658343</data>
+      <data key="d6" />
+    </node>
+    <node id="Beijing Vocational College of Science and Technology">
+      <data key="d0">Beijing Vocational College of Science and Technology</data>
+      <data key="d1">organization</data>
+      <data key="d2">Beijing Vocational College of Science and Technology is an educational institution where the individual studied Art Design from 2007 to 2011.</data>
+      <data key="d3">chunk-7843aef06d0c82abc4641013a7c73c16</data>
+      <data key="d4">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d5">1762658343</data>
+      <data key="d6" />
+    </node>
+    <node id="Art Design">
+      <data key="d0">Art Design</data>
+      <data key="d1">concept</data>
+      <data key="d2">Art Design is the major the individual studied for their bachelor's degree at Beijing Vocational College of Science and Technology.</data>
+      <data key="d3">chunk-7843aef06d0c82abc4641013a7c73c16</data>
+      <data key="d4">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d5">1762658343</data>
+      <data key="d6" />
+    </node>
+    <node id="Graphic Designer">
+      <data key="d0">Graphic Designer</data>
+      <data key="d1">person</data>
+      <data key="d2">Graphic Designer is the professional role held by the individual at various companies.</data>
+      <data key="d3">chunk-7843aef06d0c82abc4641013a7c73c16</data>
+      <data key="d4">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d5">1762658343</data>
+      <data key="d6" />
+    </node>
+    <node id="Online Promotional Design">
+      <data key="d0">Online Promotional Design</data>
+      <data key="d1">concept</data>
+      <data key="d2">Online Promotional Design refers to the design work focused on internet-based advertising and promotion.</data>
+      <data key="d3">chunk-7843aef06d0c82abc4641013a7c73c16</data>
+      <data key="d4">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d5">1762658343</data>
+      <data key="d6" />
+    </node>
+    <node id="HTML5">
+      <data key="d0">HTML5</data>
+      <data key="d1">method</data>
+      <data key="d2">HTML5 is a web technology used by the individual for building designs at Qingniu Technology.</data>
+      <data key="d3">chunk-7843aef06d0c82abc4641013a7c73c16</data>
+      <data key="d4">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d5">1762658343</data>
+      <data key="d6" />
+    </node>
+    <node id="Brand Promotion">
+      <data key="d0">Brand Promotion</data>
+      <data key="d1">concept</data>
+      <data key="d2">Brand Promotion involves activities aimed at increasing brand awareness and perception.</data>
+      <data key="d3">chunk-7843aef06d0c82abc4641013a7c73c16</data>
+      <data key="d4">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d5">1762658344</data>
+      <data key="d6" />
+    </node>
+    <node id="Event Design Materials">
+      <data key="d0">Event Design Materials</data>
+      <data key="d1">artifact</data>
+      <data key="d2">Event Design Materials are physical or digital assets created for promotional events.</data>
+      <data key="d3">chunk-7843aef06d0c82abc4641013a7c73c16</data>
+      <data key="d4">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d5">1762658344</data>
+      <data key="d6" />
+    </node>
+    <node id="VI Extension Design">
+      <data key="d0">VI Extension Design</data>
+      <data key="d1">concept</data>
+      <data key="d2">VI Extension Design involves expanding a company's Visual Identity system to various applications.</data>
+      <data key="d3">chunk-7843aef06d0c82abc4641013a7c73c16</data>
+      <data key="d4">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d5">1762658345</data>
+      <data key="d6" />
+    </node>
+    <node id="Advertising Production">
+      <data key="d0">Advertising Production</data>
+      <data key="d1">concept</data>
+      <data key="d2">Advertising Production refers to the creation of physical advertising materials like hoardings and light box posters.</data>
+      <data key="d3">chunk-7843aef06d0c82abc4641013a7c73c16</data>
+      <data key="d4">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d5">1762658346</data>
+      <data key="d6" />
+    </node>
+    <node id="VI System Design">
+      <data key="d0">VI System Design</data>
+      <data key="d1">concept</data>
+      <data key="d2">VI System Design involves creating a comprehensive Visual Identity system for a company.</data>
+      <data key="d3">chunk-7843aef06d0c82abc4641013a7c73c16</data>
+      <data key="d4">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d5">1762658346</data>
+      <data key="d6" />
+    </node>
+    <node id="4A Company">
+      <data key="d0">4A Company</data>
+      <data key="d1">organization</data>
+      <data key="d2">4A Company refers to a top-tier advertising agency where the individual has work experience.</data>
+      <data key="d3">chunk-7843aef06d0c82abc4641013a7c73c16</data>
+      <data key="d4">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d5">1762658346</data>
+      <data key="d6" />
+    </node>
+    <node id="Fast-Moving Consumer Goods">
+      <data key="d0">Fast-Moving Consumer Goods</data>
+      <data key="d1">concept</data>
+      <data key="d2">Fast-Moving Consumer Goods is an industry sector the individual has served.</data>
+      <data key="d3">chunk-7843aef06d0c82abc4641013a7c73c16</data>
+      <data key="d4">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d5">1762658346</data>
+      <data key="d6" />
+    </node>
+    <node id="Finance">
+      <data key="d0">Finance</data>
+      <data key="d1">concept</data>
+      <data key="d2">Finance is an industry sector the individual has served.</data>
+      <data key="d3">chunk-7843aef06d0c82abc4641013a7c73c16</data>
+      <data key="d4">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d5">1762658346</data>
+      <data key="d6" />
+    </node>
+    <node id="Event Planning">
+      <data key="d0">Event Planning</data>
+      <data key="d1">concept</data>
+      <data key="d2">Event Planning involves organizing and managing promotional events.&lt;SEP&gt;Event Planning is a service offered by Zhang Lei's Personal Studio, involving creating plans for various holiday activities.</data>
+      <data key="d3">chunk-7843aef06d0c82abc4641013a7c73c16&lt;SEP&gt;chunk-a9ea347ca1eb9d2c7c390bcf9cf1f2b9</data>
+      <data key="d4">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d5">1762658347</data>
+      <data key="d6" />
+    </node>
+    <node id="New Media Communication">
+      <data key="d0">New Media Communication</data>
+      <data key="d1">concept</data>
+      <data key="d2">New Media Communication involves using digital platforms for marketing and promotion.</data>
+      <data key="d3">chunk-7843aef06d0c82abc4641013a7c73c16</data>
+      <data key="d4">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d5">1762658349</data>
+      <data key="d6" />
+    </node>
+    <node id="Photoshop">
+      <data key="d0">Photoshop</data>
+      <data key="d1">method</data>
+      <data key="d2">Photoshop is a software tool the individual has used proficiently for 60 months.</data>
+      <data key="d3">chunk-7843aef06d0c82abc4641013a7c73c16</data>
+      <data key="d4">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d5">1762658349</data>
+      <data key="d6" />
+    </node>
+    <node id="Illustrator">
+      <data key="d0">Illustrator</data>
+      <data key="d1">method</data>
+      <data key="d2">Illustrator is a software tool the individual has used proficiently.</data>
+      <data key="d3">chunk-7843aef06d0c82abc4641013a7c73c16</data>
+      <data key="d4">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d5">1762658349</data>
+      <data key="d6" />
+    </node>
+    <node id="English">
+      <data key="d0">English</data>
+      <data key="d1">concept</data>
+      <data key="d2">English is a language in which the individual has general reading, writing, and speaking ability.</data>
+      <data key="d3">chunk-7843aef06d0c82abc4641013a7c73c16</data>
+      <data key="d4">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d5">1762658349</data>
+      <data key="d6" />
+    </node>
+    <node id="Ten Years Of Graphic Design Experience">
+      <data key="d0">Ten Years Of Graphic Design Experience</data>
+      <data key="d1">data</data>
+      <data key="d2">The individual possesses over ten years of professional experience in graphic design.</data>
+      <data key="d3">chunk-7843aef06d0c82abc4641013a7c73c16</data>
+      <data key="d4">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d5">1762658349</data>
+      <data key="d6" />
+    </node>
+    <node id="Four Years Of Client-Side Experience">
+      <data key="d0">Four Years Of Client-Side Experience</data>
+      <data key="d1">data</data>
+      <data key="d2">The individual has over four years of work experience on the client side (as an甲方).</data>
+      <data key="d3">chunk-7843aef06d0c82abc4641013a7c73c16</data>
+      <data key="d4">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d5">1762658349</data>
+      <data key="d6" />
+    </node>
+    <node id="Zhang Lei">
+      <data key="d0">Zhang Lei</data>
+      <data key="d1">person</data>
+      <data key="d2">Zhang Lei is a candidate for a job, male, 36 years old, with 14 years of work experience, currently residing in Langfang, and seeking positions such as Creative Director.</data>
+      <data key="d3">chunk-a9ea347ca1eb9d2c7c390bcf9cf1f2b9</data>
+      <data key="d4">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d5">1762658349</data>
+      <data key="d6" />
+    </node>
+    <node id="Beijing Yanzhou Technology Co., Ltd.">
+      <data key="d0">Beijing Yanzhou Technology Co., Ltd.</data>
+      <data key="d1">organization</data>
+      <data key="d2">Beijing Yanzhou Technology Co., Ltd. is the company to which Zhang Lei is applying for the New Media Operations position.</data>
+      <data key="d3">chunk-a9ea347ca1eb9d2c7c390bcf9cf1f2b9</data>
+      <data key="d4">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d5">1762658350</data>
+      <data key="d6" />
+    </node>
+    <node id="Langfang Aiertai Energy Saving Technology Co., Ltd.">
+      <data key="d0">Langfang Aiertai Energy Saving Technology Co., Ltd.</data>
+      <data key="d1">organization</data>
+      <data key="d2">Langfang Aiertai Energy Saving Technology Co., Ltd. is a company where Zhang Lei worked as a New Media Operations specialist from September 2023 to present.</data>
+      <data key="d3">chunk-a9ea347ca1eb9d2c7c390bcf9cf1f2b9</data>
+      <data key="d4">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d5">1762658352</data>
+      <data key="d6" />
+    </node>
+    <node id="Tianjiu Sharing Holding Group Co., Ltd.">
+      <data key="d0">Tianjiu Sharing Holding Group Co., Ltd.</data>
+      <data key="d1">organization</data>
+      <data key="d2">Tianjiu Sharing Holding Group Co., Ltd. is a company where Zhang Lei worked as a Creative Design Manager from July 2019 to September 2020.</data>
+      <data key="d3">chunk-a9ea347ca1eb9d2c7c390bcf9cf1f2b9</data>
+      <data key="d4">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d5">1762658352</data>
+      <data key="d6" />
+    </node>
+    <node id="Beijing Zhongchuang Huasheng Group">
+      <data key="d0">Beijing Zhongchuang Huasheng Group</data>
+      <data key="d1">organization</data>
+      <data key="d2">Beijing Zhongchuang Huasheng Group is a company where Zhang Lei worked as a Graphic Designer from September 2018 to February 2019.</data>
+      <data key="d3">chunk-a9ea347ca1eb9d2c7c390bcf9cf1f2b9</data>
+      <data key="d4">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d5">1762658352</data>
+      <data key="d6" />
+    </node>
+    <node id="Beijing Weisai De Enterprise Planning Co., Ltd.">
+      <data key="d0">Beijing Weisai De Enterprise Planning Co., Ltd.</data>
+      <data key="d1">organization</data>
+      <data key="d2">Beijing Weisai De Enterprise Planning Co., Ltd. is a company where Zhang Lei worked as a Designer from April 2017 to March 2018.</data>
+      <data key="d3">chunk-a9ea347ca1eb9d2c7c390bcf9cf1f2b9</data>
+      <data key="d4">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d5">1762658352</data>
+      <data key="d6" />
+    </node>
+    <node id="Kudi Advertising Co., Ltd.">
+      <data key="d0">Kudi Advertising Co., Ltd.</data>
+      <data key="d1">organization</data>
+      <data key="d2">Kudi Advertising Co., Ltd. is a company where Zhang Lei worked as a Designer from April 2016 to January 2017.</data>
+      <data key="d3">chunk-a9ea347ca1eb9d2c7c390bcf9cf1f2b9</data>
+      <data key="d4">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d5">1762658352</data>
+      <data key="d6" />
+    </node>
+    <node id="Beijing Century Longwen">
+      <data key="d0">Beijing Century Longwen</data>
+      <data key="d1">organization</data>
+      <data key="d2">Beijing Century Longwen is a company where Zhang Lei worked as a Designer from December 2013 to April 2015.</data>
+      <data key="d3">chunk-a9ea347ca1eb9d2c7c390bcf9cf1f2b9</data>
+      <data key="d4">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d5">1762658352</data>
+      <data key="d6" />
+    </node>
+    <node id="New Media Operations">
+      <data key="d0">New Media Operations</data>
+      <data key="d1">concept</data>
+      <data key="d2">New Media Operations is a job function involving managing and optimizing company presence on platforms like Toutiao, Douyin, and WeChat.</data>
+      <data key="d3">chunk-a9ea347ca1eb9d2c7c390bcf9cf1f2b9</data>
+      <data key="d4">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d5">1762658353</data>
+      <data key="d6" />
+    </node>
+    <node id="Creative Director">
+      <data key="d0">Creative Director</data>
+      <data key="d1">concept</data>
+      <data key="d2">Creative Director is a job position sought by Zhang Lei, with an expected monthly salary of 20,000-30,000 RMB.</data>
+      <data key="d3">chunk-a9ea347ca1eb9d2c7c390bcf9cf1f2b9</data>
+      <data key="d4">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d5">1762658353</data>
+      <data key="d6" />
+    </node>
+    <node id="Graphic Design">
+      <data key="d0">Graphic Design</data>
+      <data key="d1">concept</data>
+      <data key="d2">Graphic Design is a professional skill and job function performed by Zhang Lei, involving the creation of visual content.</data>
+      <data key="d3">chunk-a9ea347ca1eb9d2c7c390bcf9cf1f2b9</data>
+      <data key="d4">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d5">1762658356</data>
+      <data key="d6" />
+    </node>
+    <node id="Advertising Art Direction">
+      <data key="d0">Advertising Art Direction</data>
+      <data key="d1">concept</data>
+      <data key="d2">Advertising Art Direction is a job position sought by Zhang Lei.</data>
+      <data key="d3">chunk-a9ea347ca1eb9d2c7c390bcf9cf1f2b9</data>
+      <data key="d4">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d5">1762658356</data>
+      <data key="d6" />
+    </node>
+    <node id="Langfang">
+      <data key="d0">Langfang</data>
+      <data key="d1">location</data>
+      <data key="d2">Langfang is Zhang Lei's current place of residence and household registration location.</data>
+      <data key="d3">chunk-a9ea347ca1eb9d2c7c390bcf9cf1f2b9</data>
+      <data key="d4">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d5">1762658356</data>
+      <data key="d6" />
+    </node>
+    <node id="Keyuan Road">
+      <data key="d0">Keyuan Road</data>
+      <data key="d1">location</data>
+      <data key="d2">Keyuan Road is the work location for the position at Beijing Yanzhou Technology Co., Ltd.</data>
+      <data key="d3">chunk-a9ea347ca1eb9d2c7c390bcf9cf1f2b9</data>
+      <data key="d4">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d5">1762658356</data>
+      <data key="d6" />
+    </node>
+    <node id="Beijing">
+      <data key="d0">Beijing</data>
+      <data key="d1">location</data>
+      <data key="d2">Beijing is the location for several job positions sought and held by Zhang Lei.</data>
+      <data key="d3">chunk-a9ea347ca1eb9d2c7c390bcf9cf1f2b9</data>
+      <data key="d4">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d5">1762658356</data>
+      <data key="d6" />
+    </node>
+    <node id="Personal Studio">
+      <data key="d0">Personal Studio</data>
+      <data key="d1">organization</data>
+      <data key="d2">Personal Studio is a venture run by Zhang Lei from March 2021 to September 2023, focusing on event planning and graphic design.</data>
+      <data key="d3">chunk-a9ea347ca1eb9d2c7c390bcf9cf1f2b9</data>
+      <data key="d4">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d5">1762658356</data>
+      <data key="d6" />
+    </node>
+    <node id="Today's Headlines">
+      <data key="d0">Today's Headlines</data>
+      <data key="d1">platform</data>
+      <data key="d2">Today's Headlines is a new media platform managed by Zhang Lei for Langfang Aiertai Energy Saving Technology Co., Ltd.</data>
+      <data key="d3">chunk-a9ea347ca1eb9d2c7c390bcf9cf1f2b9</data>
+      <data key="d4">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d5">1762658356</data>
+      <data key="d6" />
+    </node>
+    <node id="Douyin">
+      <data key="d0">Douyin</data>
+      <data key="d1">platform</data>
+      <data key="d2">Douyin is a new media platform managed by Zhang Lei for Langfang Aiertai Energy Saving Technology Co., Ltd.</data>
+      <data key="d3">chunk-a9ea347ca1eb9d2c7c390bcf9cf1f2b9</data>
+      <data key="d4">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d5">1762658357</data>
+      <data key="d6" />
+    </node>
+    <node id="WeChat Channels">
+      <data key="d0">WeChat Channels</data>
+      <data key="d1">platform</data>
+      <data key="d2">WeChat Channels is a new media platform managed by Zhang Lei for Langfang Aiertai Energy Saving Technology Co., Ltd.</data>
+      <data key="d3">chunk-a9ea347ca1eb9d2c7c390bcf9cf1f2b9</data>
+      <data key="d4">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d5">1762658357</data>
+      <data key="d6" />
+    </node>
+    <node id="Official Accounts">
+      <data key="d0">Official Accounts</data>
+      <data key="d1">platform</data>
+      <data key="d2">Official Accounts are new media platforms managed by Zhang Lei for Langfang Aiertai Energy Saving Technology Co., Ltd.</data>
+      <data key="d3">chunk-a9ea347ca1eb9d2c7c390bcf9cf1f2b9</data>
+      <data key="d4">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d5">1762658359</data>
+      <data key="d6" />
+    </node>
+    <node id="Weibo">
+      <data key="d0">Weibo</data>
+      <data key="d1">platform</data>
+      <data key="d2">Weibo is a social media platform where Zhang Lei managed official and entertainment accounts for Langfang Aiertai Energy Saving Technology Co., Ltd.</data>
+      <data key="d3">chunk-a9ea347ca1eb9d2c7c390bcf9cf1f2b9</data>
+      <data key="d4">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d5">1762658359</data>
+      <data key="d6" />
+    </node>
+    <node id="Siyue Hentun">
+      <data key="d0">Siyue Hentun</data>
+      <data key="d1">organization</data>
+      <data key="d2">Siyue Hentun is a catering company for which Zhang Lei completed project design work at Tianjiu Sharing Holding Group.</data>
+      <data key="d3">chunk-a9ea347ca1eb9d2c7c390bcf9cf1f2b9</data>
+      <data key="d4">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d5">1762658359</data>
+      <data key="d6" />
+    </node>
+    <node id="Ai Hui Shou">
+      <data key="d0">Ai Hui Shou</data>
+      <data key="d1">organization</data>
+      <data key="d2">Ai Hui Shou is a technology company for which Zhang Lei completed project design work at Tianjiu Sharing Holding Group.</data>
+      <data key="d3">chunk-a9ea347ca1eb9d2c7c390bcf9cf1f2b9</data>
+      <data key="d4">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d5">1762658359</data>
+      <data key="d6" />
+    </node>
+    <node id="Wali Factory">
+      <data key="d0">Wali Factory</data>
+      <data key="d1">organization</data>
+      <data key="d2">Wali Factory is an education company for which Zhang Lei completed project design work at Tianjiu Sharing Holding Group.</data>
+      <data key="d3">chunk-a9ea347ca1eb9d2c7c390bcf9cf1f2b9</data>
+      <data key="d4">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d5">1762658359</data>
+      <data key="d6" />
+    </node>
+    <node id="First Class Cabin">
+      <data key="d0">First Class Cabin</data>
+      <data key="d1">organization</data>
+      <data key="d2">First Class Cabin is an intelligent sharing company for which Zhang Lei completed project design work at Tianjiu Sharing Holding Group.</data>
+      <data key="d3">chunk-a9ea347ca1eb9d2c7c390bcf9cf1f2b9</data>
+      <data key="d4">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d5">1762658359</data>
+      <data key="d6" />
+    </node>
+    <node id="Tianchao Shangpin">
+      <data key="d0">Tianchao Shangpin</data>
+      <data key="d1">organization</data>
+      <data key="d2">Tianchao Shangpin is a fast-moving consumer goods company for which Zhang Lei completed project design work at Tianjiu Sharing Holding Group.</data>
+      <data key="d3">chunk-a9ea347ca1eb9d2c7c390bcf9cf1f2b9</data>
+      <data key="d4">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d5">1762658360</data>
+      <data key="d6" />
+    </node>
+    <node id="East China Health">
+      <data key="d0">East China Health</data>
+      <data key="d1">organization</data>
+      <data key="d2">East China Health is a healthcare company for which Zhang Lei completed project design work at Tianjiu Sharing Holding Group.</data>
+      <data key="d3">chunk-a9ea347ca1eb9d2c7c390bcf9cf1f2b9</data>
+      <data key="d4">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d5">1762658360</data>
+      <data key="d6" />
+    </node>
+    <node id="Seagate Technology">
+      <data key="d0">Seagate Technology</data>
+      <data key="d1">organization</data>
+      <data key="d2">Seagate Technology is a client for which Zhang Lei designed conference materials at Beijing Weisai De Enterprise Planning Co., Ltd.</data>
+      <data key="d3">chunk-a9ea347ca1eb9d2c7c390bcf9cf1f2b9</data>
+      <data key="d4">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d5">1762658361</data>
+      <data key="d6" />
+    </node>
+    <node id="F5">
+      <data key="d0">F5</data>
+      <data key="d1">organization</data>
+      <data key="d2">F5 is a client for which Zhang Lei designed online event materials at Beijing Weisai De Enterprise Planning Co., Ltd.</data>
+      <data key="d3">chunk-a9ea347ca1eb9d2c7c390bcf9cf1f2b9</data>
+      <data key="d4">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d5">1762658363</data>
+      <data key="d6" />
+    </node>
+    <node id="Fujifilm">
+      <data key="d0">Fujifilm</data>
+      <data key="d1">organization</data>
+      <data key="d2">Fujifilm is a client for which Zhang Lei designed materials and handled domestic brand promotion at Beijing Weisai De Enterprise Planning Co., Ltd.</data>
+      <data key="d3">chunk-a9ea347ca1eb9d2c7c390bcf9cf1f2b9</data>
+      <data key="d4">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d5">1762658363</data>
+      <data key="d6" />
+    </node>
+    <node id="Jinmailang Liang Bai Kai">
+      <data key="d0">Jinmailang Liang Bai Kai</data>
+      <data key="d1">product</data>
+      <data key="d2">Jinmailang Liang Bai Kai is a product for which Zhang Lei was responsible for the full annual marketing plan at Kudi Advertising Co., Ltd.</data>
+      <data key="d3">chunk-a9ea347ca1eb9d2c7c390bcf9cf1f2b9</data>
+      <data key="d4">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d5">1762658363</data>
+      <data key="d6" />
+    </node>
+    <node id="Jinmailang Yi Tong Mian">
+      <data key="d0">Jinmailang Yi Tong Mian</data>
+      <data key="d1">product</data>
+      <data key="d2">Jinmailang Yi Tong Mian is a product for which Zhang Lei designed promotional materials at Kudi Advertising Co., Ltd.</data>
+      <data key="d3">chunk-a9ea347ca1eb9d2c7c390bcf9cf1f2b9</data>
+      <data key="d4">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d5">1762658363</data>
+      <data key="d6" />
+    </node>
+    <node id="Nestle Milk Powder">
+      <data key="d0">Nestle Milk Powder</data>
+      <data key="d1">product</data>
+      <data key="d2">Nestle Milk Powder is a product line for which Zhang Lei designed online promotions at Kudi Advertising Co., Ltd.</data>
+      <data key="d3">chunk-a9ea347ca1eb9d2c7c390bcf9cf1f2b9</data>
+      <data key="d4">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d5">1762658363</data>
+      <data key="d6" />
+    </node>
+    <node id="Xiwang Cooking Oil">
+      <data key="d0">Xiwang Cooking Oil</data>
+      <data key="d1">product</data>
+      <data key="d2">Xiwang Cooking Oil is a product for which Zhang Lei handled brand promotion planning and design at Kudi Advertising Co., Ltd.</data>
+      <data key="d3">chunk-a9ea347ca1eb9d2c7c390bcf9cf1f2b9</data>
+      <data key="d4">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d5">1762658363</data>
+      <data key="d6" />
+    </node>
+    <node id="For Example World">
+      <data key="d0">For Example World</data>
+      <data key="d1">organization</data>
+      <data key="d2">For Example World is a client for which Zhang Lei designed activity materials at Kudi Advertising Co., Ltd.</data>
+      <data key="d3">chunk-a9ea347ca1eb9d2c7c390bcf9cf1f2b9</data>
+      <data key="d4">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d5">1762658364</data>
+      <data key="d6" />
+    </node>
+    <node id="Nestle National Roadshow">
+      <data key="d0">Nestle National Roadshow</data>
+      <data key="d1">event</data>
+      <data key="d2">Nestle National Roadshow is an event for which Zhang Lei designed materials and handled feedback at Kudi Advertising Co., Ltd.</data>
+      <data key="d3">chunk-a9ea347ca1eb9d2c7c390bcf9cf1f2b9</data>
+      <data key="d4">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d5">1762658364</data>
+      <data key="d6" />
+    </node>
+    <node id="Jiaduobao">
+      <data key="d0">Jiaduobao</data>
+      <data key="d1">product</data>
+      <data key="d2">Jiaduobao is a product for which Zhang Lei handled online promotional design at Beijing Century Longwen.</data>
+      <data key="d3">chunk-a9ea347ca1eb9d2c7c390bcf9cf1f2b9</data>
+      <data key="d4">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d5">1762658365</data>
+      <data key="d6" />
+    </node>
+    <node id="Tsingtao Beer">
+      <data key="d0">Tsingtao Beer</data>
+      <data key="d1">product</data>
+      <data key="d2">Tsingtao Beer is a product for which Zhang Lei handled online promotion design at Beijing Century Longwen.</data>
+      <data key="d3">chunk-a9ea347ca1eb9d2c7c390bcf9cf1f2b9</data>
+      <data key="d4">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d5">1762658365</data>
+      <data key="d6" />
+    </node>
+    <node id="VIS">
+      <data key="d0">VIS</data>
+      <data key="d1">concept</data>
+      <data key="d2">VIS (Visual Identity System) is a type of company brand design work performed by Zhang Lei at Beijing Zhongchuang Huasheng Group.</data>
+      <data key="d3">chunk-a9ea347ca1eb9d2c7c390bcf9cf1f2b9</data>
+      <data key="d4">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d5">1762658367</data>
+      <data key="d6" />
+    </node>
+    <node id="Content Strategy">
+      <data key="d0">Content Strategy</data>
+      <data key="d1">concept</data>
+      <data key="d2">Content Strategy refers to the precise planning of content to enhance brand exposure and fan base, implemented by Zhang Lei for Weibo accounts.</data>
+      <data key="d3">chunk-a9ea347ca1eb9d2c7c390bcf9cf1f2b9</data>
+      <data key="d4">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d5">1762658367</data>
+      <data key="d6" />
+    </node>
+    <node id="Brand Image Design">
+      <data key="d0">Brand Image Design</data>
+      <data key="d1">concept</data>
+      <data key="d2">Brand Image Design is work performed by Zhang Lei at Langfang Aiertai Energy Saving Technology Co., Ltd. to enhance brand professionalism and market competitiveness.</data>
+      <data key="d3">chunk-a9ea347ca1eb9d2c7c390bcf9cf1f2b9</data>
+      <data key="d4">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d5">1762658367</data>
+      <data key="d6" />
+    </node>
+    <node id="Project Design Positioning">
+      <data key="d0">Project Design Positioning</data>
+      <data key="d1">concept</data>
+      <data key="d2">Project Design Positioning was a responsibility of Zhang Lei as Creative Design Manager at Tianjiu Sharing Holding Group Co., Ltd.</data>
+      <data key="d3">chunk-a9ea347ca1eb9d2c7c390bcf9cf1f2b9</data>
+      <data key="d4">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d5">1762658367</data>
+      <data key="d6" />
+    </node>
+    <node id="HTML5 Development">
+      <data key="d0">HTML5 Development</data>
+      <data key="d1">concept</data>
+      <data key="d2">HTML5 Development was a primary task performed by Zhang Lei for Qingniu Technology at Beijing Century Longwen.</data>
+      <data key="d3">chunk-a9ea347ca1eb9d2c7c390bcf9cf1f2b9</data>
+      <data key="d4">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d5">1762658367</data>
+      <data key="d6" />
+    </node>
+    <node id="Brand Marketing">
+      <data key="d0">Brand Marketing</data>
+      <data key="d3">chunk-7843aef06d0c82abc4641013a7c73c16</data>
+      <data key="d2">The Graphic Designer's main direction includes brand marketing.</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d5">1762658392</data>
+      <data key="d6" />
+    </node>
+    <node id="discarded_cfba7a3eac06752e9f3de9fb46d3a2d5">
+      <data key="d0">discarded_cfba7a3eac06752e9f3de9fb46d3a2d5</data>
+      <data key="d1">discarded</data>
+      <data key="d2">discarded content: {'type': 'discarded', 'text': '', 'bbox': [92, 134, 245, 239], 'page_idx': 0}</data>
+      <data key="d3">chunk-127c4c8507dfbf71eddd6f36a7eaaffa</data>
+      <data key="d4">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d5">1762658428</data>
+    </node>
+    <node id="discarded_e9452068128ce0301ff5be4b9509114d">
+      <data key="d0">discarded_e9452068128ce0301ff5be4b9509114d</data>
+      <data key="d1">discarded</data>
+      <data key="d2">discarded content: {'type': 'discarded', 'text': '智联招聘 扫码获取人才最新简历ID:Ed7aL61Bw6FUMqoGel0(O) f2RGnoXMvV 支持： $\\circ$ 微信 $</data>
+      <data key="d3">chunk-aaea8005c9772d897946e66240d0cc95</data>
+      <data key="d4">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d5">1762658428</data>
+    </node>
+    <node id="discarded_f7baf063c8f3ecfad1aa7f7ee8ed4b8b">
+      <data key="d0">discarded_f7baf063c8f3ecfad1aa7f7ee8ed4b8b</data>
+      <data key="d1">discarded</data>
+      <data key="d2">discarded content: {'type': 'discarded', 'text': '广告设计 广告营销 广告策划', 'bbox': [126, 942, 430, 965], 'page_idx': 1}</data>
+      <data key="d3">chunk-f66bfb9283d8f00ff346a99b9a0f998d</data>
+      <data key="d4">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d5">1762658428</data>
+    </node>
+    <node id="Discarded Content Analysis">
+      <data key="d0">Discarded Content Analysis</data>
+      <data key="d1">method</data>
+      <data key="d2">Method for analyzing discarded content&lt;SEP&gt;The process of analyzing content that has been marked as 'discarded'.&lt;SEP&gt;Discarded Content Analysis is the title or heading of a section that has been categorized as 'discarded'.&lt;SEP&gt;Discarded Content Analysis is the process of analyzing content that has been discarded.&lt;SEP&gt;Discarded Content Analysis is a method used to categorize content that is not considered for further processing.</data>
+      <data key="d3">chunk-127c4c8507dfbf71eddd6f36a7eaaffa&lt;SEP&gt;chunk-aaea8005c9772d897946e66240d0cc95&lt;SEP&gt;chunk-3deaad5a7aa48f15477bdbc72813f61e&lt;SEP&gt;chunk-5a8546f5022b0a9f43203a6565c649dc&lt;SEP&gt;chunk-f83ea90fdf82e83495ca08290eb06337</data>
+      <data key="d4">0a0b384ab34d44ab86094891776925fe.pdf&lt;SEP&gt;0b51280804da4b20bfc97b518cdcfa40.pdf</data>
+      <data key="d5">1762658725</data>
+      <data key="d6" />
+    </node>
+    <node id="Content">
+      <data key="d0">Content</data>
+      <data key="d1">content</data>
+      <data key="d2">Content marked as discarded with specific text, bounding box, and page index&lt;SEP&gt;Content is described with attributes 'type', 'text', 'bbox', and 'page_idx', and is categorized as 'discarded' with empty text.&lt;SEP&gt;Content refers to text that has been discarded, specifically mentioning channel sales and agent sales.&lt;SEP&gt;Content is an item of type 'discarded' containing specific text about accessing a resume.</data>
+      <data key="d3">chunk-127c4c8507dfbf71eddd6f36a7eaaffa&lt;SEP&gt;chunk-3deaad5a7aa48f15477bdbc72813f61e&lt;SEP&gt;chunk-5a8546f5022b0a9f43203a6565c649dc&lt;SEP&gt;chunk-f83ea90fdf82e83495ca08290eb06337</data>
+      <data key="d4">0a0b384ab34d44ab86094891776925fe.pdf&lt;SEP&gt;0b51280804da4b20bfc97b518cdcfa40.pdf</data>
+      <data key="d5">1762658728</data>
+      <data key="d6" />
+    </node>
+    <node id="Analysis">
+      <data key="d0">Analysis</data>
+      <data key="d1">method</data>
+      <data key="d2">Analysis process applied to the discarded content&lt;SEP&gt;The process of examining and categorizing the discarded content, noting its type, text, bounding box, and page index.&lt;SEP&gt;Analysis is a section categorized as 'discarded' with no accompanying text.&lt;SEP&gt;Analysis is a method performed on the discarded content, resulting in a classification.&lt;SEP&gt;Analysis is a general concept representing the analytical process described, which is of type 'discarded'.</data>
+      <data key="d3">chunk-127c4c8507dfbf71eddd6f36a7eaaffa&lt;SEP&gt;chunk-f66bfb9283d8f00ff346a99b9a0f998d&lt;SEP&gt;chunk-3deaad5a7aa48f15477bdbc72813f61e&lt;SEP&gt;chunk-5a8546f5022b0a9f43203a6565c649dc&lt;SEP&gt;chunk-f83ea90fdf82e83495ca08290eb06337</data>
+      <data key="d4">0a0b384ab34d44ab86094891776925fe.pdf&lt;SEP&gt;0b51280804da4b20bfc97b518cdcfa40.pdf</data>
+      <data key="d5">1762658728</data>
+      <data key="d6" />
+    </node>
+    <node id="BBox">
+      <data key="d0">BBox</data>
+      <data key="d1">data</data>
+      <data key="d2">Bounding box coordinates [92, 134, 245, 239] indicating content location</data>
+      <data key="d3">chunk-127c4c8507dfbf71eddd6f36a7eaaffa</data>
+      <data key="d4">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d5">1762658474</data>
+      <data key="d6" />
+    </node>
+    <node id="Page Index">
+      <data key="d0">Page Index</data>
+      <data key="d1">data</data>
+      <data key="d2">Page index value 0 indicating the page where content is located&lt;SEP&gt;Page Index indicates the numerical position or identifier of a page in a document or series.&lt;SEP&gt;Page Index is the page number 1 where the discarded content is located.</data>
+      <data key="d3">chunk-127c4c8507dfbf71eddd6f36a7eaaffa&lt;SEP&gt;chunk-2486ce00736ec9033245d29f1f2ba3db&lt;SEP&gt;chunk-f83ea90fdf82e83495ca08290eb06337</data>
+      <data key="d4">0a0b384ab34d44ab86094891776925fe.pdf&lt;SEP&gt;0b51280804da4b20bfc97b518cdcfa40.pdf</data>
+      <data key="d5">1762658723</data>
+      <data key="d6" />
+    </node>
+    <node id="Type">
+      <data key="d0">Type</data>
+      <data key="d1">concept</data>
+      <data key="d2">Category classification such as 'discarded' for content and analysis</data>
+      <data key="d3">chunk-127c4c8507dfbf71eddd6f36a7eaaffa</data>
+      <data key="d4">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d5">1762658474</data>
+      <data key="d6" />
+    </node>
+    <node id="Text">
+      <data key="d0">Text</data>
+      <data key="d1">data</data>
+      <data key="d2">Text content that is marked as discarded</data>
+      <data key="d3">chunk-127c4c8507dfbf71eddd6f36a7eaaffa</data>
+      <data key="d4">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d5">1762658474</data>
+      <data key="d6" />
+    </node>
+    <node id="Zhaopin">
+      <data key="d0">Zhaopin</data>
+      <data key="d1">organization</data>
+      <data key="d2">Zhaopin is a recruitment platform where resumes are downloaded and viewed.</data>
+      <data key="d3">chunk-aaea8005c9772d897946e66240d0cc95</data>
+      <data key="d4">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d5">1762658474</data>
+      <data key="d6" />
+    </node>
+    <node id="Resume ID: Ed7aL61Bw6FUMqoGel0(O) f2RGnoXMvV">
+      <data key="d0">Resume ID: Ed7aL61Bw6FUMqoGel0(O) f2RGnoXMvV</data>
+      <data key="d1">data</data>
+      <data key="d2">A unique identifier for a specific resume on the Zhaopin platform.</data>
+      <data key="d3">chunk-aaea8005c9772d897946e66240d0cc95</data>
+      <data key="d4">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d5">1762658476</data>
+      <data key="d6" />
+    </node>
+    <node id="WeChat">
+      <data key="d0">WeChat</data>
+      <data key="d1">organization</data>
+      <data key="d2">A supported platform or method for accessing the Zhaopin service.</data>
+      <data key="d3">chunk-aaea8005c9772d897946e66240d0cc95</data>
+      <data key="d4">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d5">1762658478</data>
+      <data key="d6" />
+    </node>
+    <node id="Zhaopin App">
+      <data key="d0">Zhaopin App</data>
+      <data key="d1">artifact</data>
+      <data key="d2">The mobile application for the Zhaopin recruitment platform used to download resumes.</data>
+      <data key="d3">chunk-aaea8005c9772d897946e66240d0cc95</data>
+      <data key="d4">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d5">1762658478</data>
+      <data key="d6" />
+    </node>
+    <node id="Resume Download">
+      <data key="d0">Resume Download</data>
+      <data key="d1">event</data>
+      <data key="d2">An event that occurred on February 14, 2025, at 17:07:47, where a resume was downloaded from Zhaopin.</data>
+      <data key="d3">chunk-aaea8005c9772d897946e66240d0cc95</data>
+      <data key="d4">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d5">1762658478</data>
+      <data key="d6" />
+    </node>
+    <node id="Bbox [55, 32, 946, 108]">
+      <data key="d0">Bbox [55, 32, 946, 108]</data>
+      <data key="d1">data</data>
+      <data key="d2">A set of coordinates defining a bounding box on a page, likely indicating the position of the discarded content.</data>
+      <data key="d3">chunk-aaea8005c9772d897946e66240d0cc95</data>
+      <data key="d4">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d5">1762658478</data>
+      <data key="d6" />
+    </node>
+    <node id="Page Index 0">
+      <data key="d0">Page Index 0</data>
+      <data key="d1">data</data>
+      <data key="d2">The index number, 0, identifying the specific page where the content is located.&lt;SEP&gt;Page Index 0 indicates the document page number where the analyzed content was found.</data>
+      <data key="d3">chunk-aaea8005c9772d897946e66240d0cc95&lt;SEP&gt;chunk-5a8546f5022b0a9f43203a6565c649dc</data>
+      <data key="d4">0a0b384ab34d44ab86094891776925fe.pdf&lt;SEP&gt;0b51280804da4b20bfc97b518cdcfa40.pdf</data>
+      <data key="d5">1762658731</data>
+      <data key="d6" />
+    </node>
+    <node id="Discarded Content">
+      <data key="d0">Discarded Content</data>
+      <data key="d1">content</data>
+      <data key="d2">Text that was identified as discarded during analysis, containing terms related to advertising design, marketing, and planning.</data>
+      <data key="d3">chunk-f66bfb9283d8f00ff346a99b9a0f998d</data>
+      <data key="d4">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d5">1762658478</data>
+      <data key="d6" />
+    </node>
+    <node id="Bounding Box">
+      <data key="d0">Bounding Box</data>
+      <data key="d1">data</data>
+      <data key="d2">A set of coordinates [126, 942, 430, 965] that defines the location of the discarded content on the page.&lt;SEP&gt;A Bounding Box is a set of coordinates defining a region of interest within an image.</data>
+      <data key="d3">chunk-f66bfb9283d8f00ff346a99b9a0f998d&lt;SEP&gt;chunk-2486ce00736ec9033245d29f1f2ba3db</data>
+      <data key="d4">0a0b384ab34d44ab86094891776925fe.pdf&lt;SEP&gt;0b51280804da4b20bfc97b518cdcfa40.pdf</data>
+      <data key="d5">1762658723</data>
+      <data key="d6" />
+    </node>
+    <node id="Page 1">
+      <data key="d0">Page 1</data>
+      <data key="d1">content</data>
+      <data key="d2">The specific page (index 1) where the discarded content was located.</data>
+      <data key="d3">chunk-f66bfb9283d8f00ff346a99b9a0f998d</data>
+      <data key="d4">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d5">1762658479</data>
+      <data key="d6" />
+    </node>
+    <node id="广告设计">
+      <data key="d0">广告设计</data>
+      <data key="d1">concept</data>
+      <data key="d2">A term for advertising design mentioned in the discarded content.</data>
+      <data key="d3">chunk-f66bfb9283d8f00ff346a99b9a0f998d</data>
+      <data key="d4">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d5">1762658482</data>
+      <data key="d6" />
+    </node>
+    <node id="广告营销">
+      <data key="d0">广告营销</data>
+      <data key="d1">concept</data>
+      <data key="d2">A term for advertising marketing mentioned in the discarded content.</data>
+      <data key="d3">chunk-f66bfb9283d8f00ff346a99b9a0f998d</data>
+      <data key="d4">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d5">1762658482</data>
+      <data key="d6" />
+    </node>
+    <node id="广告策划">
+      <data key="d0">广告策划</data>
+      <data key="d1">concept</data>
+      <data key="d2">A term for advertising planning mentioned in the discarded content.</data>
+      <data key="d3">chunk-f66bfb9283d8f00ff346a99b9a0f998d</data>
+      <data key="d4">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d5">1762658482</data>
+      <data key="d6" />
+    </node>
+    <node id="于欣">
+      <data key="d0">于欣</data>
+      <data key="d1">person</data>
+      <data key="d2">Candidate for the position of Key Account Sales, with 20 years of work experience, currently living in Beijing.</data>
+      <data key="d3">chunk-24e47bfa872fdc7862d9134a6bef2e74</data>
+      <data key="d4">0b51280804da4b20bfc97b518cdcfa40.pdf</data>
+      <data key="d5">1762658638</data>
+      <data key="d6" />
+    </node>
+    <node id="北京印先行管理咨询有限公司">
+      <data key="d0">北京印先行管理咨询有限公司</data>
+      <data key="d1">organization</data>
+      <data key="d2">Company to which the candidate is applying for the position of Key Account Sales.</data>
+      <data key="d3">chunk-24e47bfa872fdc7862d9134a6bef2e74</data>
+      <data key="d4">0b51280804da4b20bfc97b518cdcfa40.pdf</data>
+      <data key="d5">1762658638</data>
+      <data key="d6" />
+    </node>
+    <node id="神州数码厦">
+      <data key="d0">神州数码厦</data>
+      <data key="d1">location</data>
+      <data key="d2">Work location for the candidate's application.</data>
+      <data key="d3">chunk-24e47bfa872fdc7862d9134a6bef2e74</data>
+      <data key="d4">0b51280804da4b20bfc97b518cdcfa40.pdf</data>
+      <data key="d5">1762658638</data>
+      <data key="d6" />
+    </node>
+    <node id="天津誉奥商贸有限公司">
+      <data key="d0">天津誉奥商贸有限公司</data>
+      <data key="d1">organization</data>
+      <data key="d2">Company where the candidate works as a Key Account Representative, responsible for sales of imported bulk raw materials.</data>
+      <data key="d3">chunk-24e47bfa872fdc7862d9134a6bef2e74</data>
+      <data key="d4">0b51280804da4b20bfc97b518cdcfa40.pdf</data>
+      <data key="d5">1762658638</data>
+      <data key="d6" />
+    </node>
+    <node id="德荷斯营养科技(北京)有限公司">
+      <data key="d0">德荷斯营养科技(北京)有限公司</data>
+      <data key="d1">organization</data>
+      <data key="d2">Company where the candidate worked as a Sales Manager, responsible for feed product sales in the Beijing-Tianjin-Hebei region.</data>
+      <data key="d3">chunk-24e47bfa872fdc7862d9134a6bef2e74</data>
+      <data key="d4">0b51280804da4b20bfc97b518cdcfa40.pdf</data>
+      <data key="d5">1762658638</data>
+      <data key="d6" />
+    </node>
+    <node id="哈尔滨凯腾生物科技有限公司">
+      <data key="d0">哈尔滨凯腾生物科技有限公司</data>
+      <data key="d1">organization</data>
+      <data key="d2">Company where the candidate worked as a Channel Sales Representative, responsible for feed additive and bulk raw material sales.</data>
+      <data key="d3">chunk-24e47bfa872fdc7862d9134a6bef2e74</data>
+      <data key="d4">0b51280804da4b20bfc97b518cdcfa40.pdf</data>
+      <data key="d5">1762658638</data>
+      <data key="d6" />
+    </node>
+    <node id="黑龙江省经济管理干部学院">
+      <data key="d0">黑龙江省经济管理干部学院</data>
+      <data key="d1">organization</data>
+      <data key="d2">Educational institution where the candidate studied Financial Management.</data>
+      <data key="d3">chunk-24e47bfa872fdc7862d9134a6bef2e74</data>
+      <data key="d4">0b51280804da4b20bfc97b518cdcfa40.pdf</data>
+      <data key="d5">1762658638</data>
+      <data key="d6" />
+    </node>
+    <node id="Key Account Sales">
+      <data key="d0">Key Account Sales</data>
+      <data key="d1">concept</data>
+      <data key="d2">Job position the candidate is applying for, involving sales to major clients.</data>
+      <data key="d3">chunk-24e47bfa872fdc7862d9134a6bef2e74</data>
+      <data key="d4">0b51280804da4b20bfc97b518cdcfa40.pdf</data>
+      <data key="d5">1762658638</data>
+      <data key="d6" />
+    </node>
+    <node id="Sales Team Manager">
+      <data key="d0">Sales Team Manager</data>
+      <data key="d1">concept</data>
+      <data key="d2">Desired job position in Beijing, with a specified monthly salary range.</data>
+      <data key="d3">chunk-24e47bfa872fdc7862d9134a6bef2e74</data>
+      <data key="d4">0b51280804da4b20bfc97b518cdcfa40.pdf</data>
+      <data key="d5">1762658639</data>
+      <data key="d6" />
+    </node>
+    <node id="Channel Sales">
+      <data key="d0">Channel Sales</data>
+      <data key="d1">concept</data>
+      <data key="d2">A type of sales role held by the candidate at multiple companies.&lt;SEP&gt;Channel Sales is a sales method mentioned in the discarded content.</data>
+      <data key="d3">chunk-24e47bfa872fdc7862d9134a6bef2e74&lt;SEP&gt;chunk-f83ea90fdf82e83495ca08290eb06337</data>
+      <data key="d4">0b51280804da4b20bfc97b518cdcfa40.pdf</data>
+      <data key="d5">1762658731</data>
+      <data key="d6" />
+    </node>
+    <node id="Financial Management">
+      <data key="d0">Financial Management</data>
+      <data key="d1">concept</data>
+      <data key="d2">The candidate's field of study at college.</data>
+      <data key="d3">chunk-24e47bfa872fdc7862d9134a6bef2e74</data>
+      <data key="d4">0b51280804da4b20bfc97b518cdcfa40.pdf</data>
+      <data key="d5">1762658642</data>
+      <data key="d6" />
+    </node>
+    <node id="Sales Performance Data">
+      <data key="d0">Sales Performance Data</data>
+      <data key="d1">data</data>
+      <data key="d2">Quantifiable sales achievements, such as monthly sales figures for various products.</data>
+      <data key="d3">chunk-24e47bfa872fdc7862d9134a6bef2e74</data>
+      <data key="d4">0b51280804da4b20bfc97b518cdcfa40.pdf</data>
+      <data key="d5">1762658642</data>
+      <data key="d6" />
+    </node>
+    <node id="北京">
+      <data key="d0">北京</data>
+      <data key="d1">location</data>
+      <data key="d2">Current city of residence for the candidate.</data>
+      <data key="d3">chunk-24e47bfa872fdc7862d9134a6bef2e74</data>
+      <data key="d4">0b51280804da4b20bfc97b518cdcfa40.pdf</data>
+      <data key="d5">1762658642</data>
+      <data key="d6" />
+    </node>
+    <node id="全脂奶粉">
+      <data key="d0">全脂奶粉</data>
+      <data key="d1">product</data>
+      <data key="d2">A type of imported bulk raw material sold by the candidate.</data>
+      <data key="d3">chunk-24e47bfa872fdc7862d9134a6bef2e74</data>
+      <data key="d4">0b51280804da4b20bfc97b518cdcfa40.pdf</data>
+      <data key="d5">1762658642</data>
+      <data key="d6" />
+    </node>
+    <node id="脱脂奶粉">
+      <data key="d0">脱脂奶粉</data>
+      <data key="d1">product</data>
+      <data key="d2">A type of imported bulk raw material sold by the candidate.</data>
+      <data key="d3">chunk-24e47bfa872fdc7862d9134a6bef2e74</data>
+      <data key="d4">0b51280804da4b20bfc97b518cdcfa40.pdf</data>
+      <data key="d5">1762658642</data>
+      <data key="d6" />
+    </node>
+    <node id="乳糖">
+      <data key="d0">乳糖</data>
+      <data key="d1">product</data>
+      <data key="d2">A type of imported bulk raw material sold by the candidate.</data>
+      <data key="d3">chunk-24e47bfa872fdc7862d9134a6bef2e74</data>
+      <data key="d4">0b51280804da4b20bfc97b518cdcfa40.pdf</data>
+      <data key="d5">1762658642</data>
+      <data key="d6" />
+    </node>
+    <node id="乳清粉">
+      <data key="d0">乳清粉</data>
+      <data key="d1">product</data>
+      <data key="d2">A type of imported bulk raw material sold by the candidate.</data>
+      <data key="d3">chunk-24e47bfa872fdc7862d9134a6bef2e74</data>
+      <data key="d4">0b51280804da4b20bfc97b518cdcfa40.pdf</data>
+      <data key="d5">1762658643</data>
+      <data key="d6" />
+    </node>
+    <node id="可可粉">
+      <data key="d0">可可粉</data>
+      <data key="d1">product</data>
+      <data key="d2">A type of imported bulk raw material sold by the candidate.</data>
+      <data key="d3">chunk-24e47bfa872fdc7862d9134a6bef2e74</data>
+      <data key="d4">0b51280804da4b20bfc97b518cdcfa40.pdf</data>
+      <data key="d5">1762658646</data>
+      <data key="d6" />
+    </node>
+    <node id="油脂">
+      <data key="d0">油脂</data>
+      <data key="d1">product</data>
+      <data key="d2">A type of imported bulk raw material sold by the candidate.</data>
+      <data key="d3">chunk-24e47bfa872fdc7862d9134a6bef2e74</data>
+      <data key="d4">0b51280804da4b20bfc97b518cdcfa40.pdf</data>
+      <data key="d5">1762658646</data>
+      <data key="d6" />
+    </node>
+    <node id="香精">
+      <data key="d0">香精</data>
+      <data key="d1">product</data>
+      <data key="d2">A type of imported bulk raw material sold by the candidate.</data>
+      <data key="d3">chunk-24e47bfa872fdc7862d9134a6bef2e74</data>
+      <data key="d4">0b51280804da4b20bfc97b518cdcfa40.pdf</data>
+      <data key="d5">1762658646</data>
+      <data key="d6" />
+    </node>
+    <node id="巧克力生产企业">
+      <data key="d0">巧克力生产企业</data>
+      <data key="d1">organizationtype</data>
+      <data key="d2">Target client type for the candidate's sales work.</data>
+      <data key="d3">chunk-24e47bfa872fdc7862d9134a6bef2e74</data>
+      <data key="d4">0b51280804da4b20bfc97b518cdcfa40.pdf</data>
+      <data key="d5">1762658646</data>
+      <data key="d6" />
+    </node>
+    <node id="冰淇淋生产企业">
+      <data key="d0">冰淇淋生产企业</data>
+      <data key="d1">organizationtype</data>
+      <data key="d2">Target client type for the candidate's sales work.</data>
+      <data key="d3">chunk-24e47bfa872fdc7862d9134a6bef2e74</data>
+      <data key="d4">0b51280804da4b20bfc97b518cdcfa40.pdf</data>
+      <data key="d5">1762658646</data>
+      <data key="d6" />
+    </node>
+    <node id="烘焙生产企业">
+      <data key="d0">烘焙生产企业</data>
+      <data key="d1">organizationtype</data>
+      <data key="d2">Target client type for the candidate's sales work.</data>
+      <data key="d3">chunk-24e47bfa872fdc7862d9134a6bef2e74</data>
+      <data key="d4">0b51280804da4b20bfc97b518cdcfa40.pdf</data>
+      <data key="d5">1762658646</data>
+      <data key="d6" />
+    </node>
+    <node id="饲料生产企业">
+      <data key="d0">饲料生产企业</data>
+      <data key="d1">organizationtype</data>
+      <data key="d2">Target client type for the candidate's sales work.</data>
+      <data key="d3">chunk-24e47bfa872fdc7862d9134a6bef2e74</data>
+      <data key="d4">0b51280804da4b20bfc97b518cdcfa40.pdf</data>
+      <data key="d5">1762658646</data>
+      <data key="d6" />
+    </node>
+    <node id="饲料添加剂">
+      <data key="d0">饲料添加剂</data>
+      <data key="d1">product</data>
+      <data key="d2">Product sold by the candidate during their tenure at哈尔滨凯腾生物科技有限公司.</data>
+      <data key="d3">chunk-24e47bfa872fdc7862d9134a6bef2e74</data>
+      <data key="d4">0b51280804da4b20bfc97b518cdcfa40.pdf</data>
+      <data key="d5">1762658646</data>
+      <data key="d6" />
+    </node>
+    <node id="Office Director">
+      <data key="d0">Office Director</data>
+      <data key="d1">concept</data>
+      <data key="d2">A past managerial role held by the candidate.</data>
+      <data key="d3">chunk-24e47bfa872fdc7862d9134a6bef2e74</data>
+      <data key="d4">0b51280804da4b20bfc97b518cdcfa40.pdf</data>
+      <data key="d5">1762658649</data>
+      <data key="d6" />
+    </node>
+    <node id="image_9203f848317d76a002daae0c198f9fc8">
+      <data key="d0">image_9203f848317d76a002daae0c198f9fc8</data>
+      <data key="d1">image</data>
+      <data key="d2">Image content: {'type': 'image', 'img_path': 'D:\\yuki\\LightRAG\\output\\0b51280804da4b20bfc97b518cdcfa40\\auto\\i</data>
+      <data key="d3">chunk-2486ce00736ec9033245d29f1f2ba3db</data>
+      <data key="d4">0b51280804da4b20bfc97b518cdcfa40.pdf</data>
+      <data key="d5">1762658670</data>
+    </node>
+    <node id="discarded_8bdb39ee239d4edd224e94eaeb1bb931">
+      <data key="d0">discarded_8bdb39ee239d4edd224e94eaeb1bb931</data>
+      <data key="d1">discarded</data>
+      <data key="d2">discarded content: {'type': 'discarded', 'text': '智联招聘 扫码获取人才最新简历ID:XGcFHJ)eJgcxJ0nZ1NIWo18cxl8EEclt 支持： $\\circ$ 微信 $\</data>
+      <data key="d3">chunk-5a8546f5022b0a9f43203a6565c649dc</data>
+      <data key="d4">0b51280804da4b20bfc97b518cdcfa40.pdf</data>
+      <data key="d5">1762658670</data>
+    </node>
+    <node id="discarded_f4aa7e291a900a7ee78e5f5aa9e77ab6">
+      <data key="d0">discarded_f4aa7e291a900a7ee78e5f5aa9e77ab6</data>
+      <data key="d1">discarded</data>
+      <data key="d2">discarded content: {'type': 'discarded', 'text': '', 'bbox': [55, 32, 332, 93], 'page_idx': 0}</data>
+      <data key="d3">chunk-3deaad5a7aa48f15477bdbc72813f61e</data>
+      <data key="d4">0b51280804da4b20bfc97b518cdcfa40.pdf</data>
+      <data key="d5">1762658670</data>
+    </node>
+    <node id="discarded_3aa9ab98ba0ca993f6410419faf83595">
+      <data key="d0">discarded_3aa9ab98ba0ca993f6410419faf83595</data>
+      <data key="d1">discarded</data>
+      <data key="d2">discarded content: {'type': 'discarded', 'text': '渠道销售 代理商销售 ', 'bbox': [129, 39, 342, 61], 'page_idx': 1}</data>
+      <data key="d3">chunk-f83ea90fdf82e83495ca08290eb06337</data>
+      <data key="d4">0b51280804da4b20bfc97b518cdcfa40.pdf</data>
+      <data key="d5">1762658670</data>
+    </node>
+    <node id="Image Content Analysis">
+      <data key="d0">Image Content Analysis</data>
+      <data key="d1">concept</data>
+      <data key="d2">Image Content Analysis refers to the process of analyzing the content of an image, including its path and visual elements.</data>
+      <data key="d3">chunk-2486ce00736ec9033245d29f1f2ba3db</data>
+      <data key="d4">0b51280804da4b20bfc97b518cdcfa40.pdf</data>
+      <data key="d5">1762658723</data>
+      <data key="d6" />
+    </node>
+    <node id="Image Path">
+      <data key="d0">Image Path</data>
+      <data key="d1">data</data>
+      <data key="d2">Image Path is the specific file location of an image on a computer system.</data>
+      <data key="d3">chunk-2486ce00736ec9033245d29f1f2ba3db</data>
+      <data key="d4">0b51280804da4b20bfc97b518cdcfa40.pdf</data>
+      <data key="d5">1762658723</data>
+      <data key="d6" />
+    </node>
+    <node id="Captions">
+      <data key="d0">Captions</data>
+      <data key="d1">content</data>
+      <data key="d2">Captions are textual descriptions associated with an image, which were noted as absent in this analysis.</data>
+      <data key="d3">chunk-2486ce00736ec9033245d29f1f2ba3db</data>
+      <data key="d4">0b51280804da4b20bfc97b518cdcfa40.pdf</data>
+      <data key="d5">1762658723</data>
+      <data key="d6" />
+    </node>
+    <node id="Footnotes">
+      <data key="d0">Footnotes</data>
+      <data key="d1">content</data>
+      <data key="d2">Footnotes are additional notes or references related to an image, which were noted as absent in this analysis.</data>
+      <data key="d3">chunk-2486ce00736ec9033245d29f1f2ba3db</data>
+      <data key="d4">0b51280804da4b20bfc97b518cdcfa40.pdf</data>
+      <data key="d5">1762658723</data>
+      <data key="d6" />
+    </node>
+    <node id="Visual Analysis">
+      <data key="d0">Visual Analysis</data>
+      <data key="d1">method</data>
+      <data key="d2">Visual Analysis is a method that provides structured information about an image, including its type, path, and bounding box data.</data>
+      <data key="d3">chunk-2486ce00736ec9033245d29f1f2ba3db</data>
+      <data key="d4">0b51280804da4b20bfc97b518cdcfa40.pdf</data>
+      <data key="d5">1762658723</data>
+      <data key="d6" />
+    </node>
+    <node id="D:\yuki\LightRAG\output\0b51280804da4b20bfc97b518cdcfa40\auto\images\94c95c9051c520f591ff90e1ad6e73c0640386ba5f725f23245d867c0ac37851.jpg">
+      <data key="d0">D:\yuki\LightRAG\output\0b51280804da4b20bfc97b518cdcfa40\auto\images\94c95c9051c520f591ff90e1ad6e73c0640386ba5f725f23245d867c0ac37851.jpg</data>
+      <data key="d1">artifact</data>
+      <data key="d2">This is the specific image file being analyzed, located at the given file path.</data>
+      <data key="d3">chunk-2486ce00736ec9033245d29f1f2ba3db</data>
+      <data key="d4">0b51280804da4b20bfc97b518cdcfa40.pdf</data>
+      <data key="d5">1762658723</data>
+      <data key="d6" />
+    </node>
+    <node id="智联招聘">
+      <data key="d0">智联招聘</data>
+      <data key="d1">organization</data>
+      <data key="d2">智联招聘is a recruitment platform that provides access to candidate resumes.</data>
+      <data key="d3">chunk-5a8546f5022b0a9f43203a6565c649dc</data>
+      <data key="d4">0b51280804da4b20bfc97b518cdcfa40.pdf</data>
+      <data key="d5">1762658728</data>
+      <data key="d6" />
+    </node>
+    <node id="Resume ID: XGcFHJ)eJgcxJ0nZ1NIWo18cxl8EEclt">
+      <data key="d0">Resume ID: XGcFHJ)eJgcxJ0nZ1NIWo18cxl8EEclt</data>
+      <data key="d1">data</data>
+      <data key="d2">Resume ID is a unique identifier for a candidate's resume available on the recruitment platform.</data>
+      <data key="d3">chunk-5a8546f5022b0a9f43203a6565c649dc</data>
+      <data key="d4">0b51280804da4b20bfc97b518cdcfa40.pdf</data>
+      <data key="d5">1762658728</data>
+      <data key="d6" />
+    </node>
+    <node id="微信">
+      <data key="d0">微信</data>
+      <data key="d1">organization</data>
+      <data key="d2">微信is a supported platform for accessing the resume download service.</data>
+      <data key="d3">chunk-5a8546f5022b0a9f43203a6565c649dc</data>
+      <data key="d4">0b51280804da4b20bfc97b518cdcfa40.pdf</data>
+      <data key="d5">1762658728</data>
+      <data key="d6" />
+    </node>
+    <node id="智联App">
+      <data key="d0">智联App</data>
+      <data key="d1">artifact</data>
+      <data key="d2">智联App is the mobile application for the recruitment platform used to download resumes.</data>
+      <data key="d3">chunk-5a8546f5022b0a9f43203a6565c649dc</data>
+      <data key="d4">0b51280804da4b20bfc97b518cdcfa40.pdf</data>
+      <data key="d5">1762658728</data>
+      <data key="d6" />
+    </node>
+    <node id="Download Date: 2025-02-19">
+      <data key="d0">Download Date: 2025-02-19</data>
+      <data key="d1">data</data>
+      <data key="d2">Download Date specifies when the resume was accessed via the mobile application.</data>
+      <data key="d3">chunk-5a8546f5022b0a9f43203a6565c649dc</data>
+      <data key="d4">0b51280804da4b20bfc97b518cdcfa40.pdf</data>
+      <data key="d5">1762658728</data>
+      <data key="d6" />
+    </node>
+    <node id="Bbox Coordinates [53, 45, 937, 108]">
+      <data key="d0">Bbox Coordinates [53, 45, 937, 108]</data>
+      <data key="d1">data</data>
+      <data key="d2">Bbox Coordinates specify the rectangular area on page 0 where the content is located.</data>
+      <data key="d3">chunk-5a8546f5022b0a9f43203a6565c649dc</data>
+      <data key="d4">0b51280804da4b20bfc97b518cdcfa40.pdf</data>
+      <data key="d5">1762658728</data>
+      <data key="d6" />
+    </node>
+    <node id="Agent Sales">
+      <data key="d0">Agent Sales</data>
+      <data key="d1">concept</data>
+      <data key="d2">Agent Sales is a sales method mentioned in the discarded content.</data>
+      <data key="d3">chunk-f83ea90fdf82e83495ca08290eb06337</data>
+      <data key="d4">0b51280804da4b20bfc97b518cdcfa40.pdf</data>
+      <data key="d5">1762658731</data>
+      <data key="d6" />
+    </node>
+    <node id="Bbox">
+      <data key="d0">Bbox</data>
+      <data key="d1">data</data>
+      <data key="d2">Bbox is the bounding box coordinates [129, 39, 342, 61] for the discarded content on the page.</data>
+      <data key="d3">chunk-f83ea90fdf82e83495ca08290eb06337</data>
+      <data key="d4">0b51280804da4b20bfc97b518cdcfa40.pdf</data>
+      <data key="d5">1762658731</data>
+      <data key="d6" />
+    </node>
+    <edge source="Ganoderma" target="Graphic Designer">
+      <data key="d7">1.0</data>
+      <data key="d8">The Graphic Designer was responsible for online promotional design work for Ganoderma.</data>
+      <data key="d9">design work,employment</data>
+      <data key="d10">chunk-7843aef06d0c82abc4641013a7c73c16</data>
+      <data key="d11">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d12">1762658370</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Qingniu Technology" target="Graphic Designer">
+      <data key="d7">1.0</data>
+      <data key="d8">The Graphic Designer was responsible for design work, primarily building HTML5, for Qingniu Technology.</data>
+      <data key="d9">employment,web design</data>
+      <data key="d10">chunk-7843aef06d0c82abc4641013a7c73c16</data>
+      <data key="d11">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d12">1762658373</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Qingniu Technology" target="Beijing Century Longwen">
+      <data key="d7">1.0</data>
+      <data key="d8">Beijing Century Longwen, through Zhang Lei, primarily worked on HTML5 development for Qingniu Technology.</data>
+      <data key="d9">client project,development service</data>
+      <data key="d10">chunk-a9ea347ca1eb9d2c7c390bcf9cf1f2b9</data>
+      <data key="d11">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d12">1762658413</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Tsingtao Brewery" target="Graphic Designer">
+      <data key="d7">1.0</data>
+      <data key="d8">The Graphic Designer was responsible for online promotion design work for Tsingtao Brewery.</data>
+      <data key="d9">employment,promotion design</data>
+      <data key="d10">chunk-7843aef06d0c82abc4641013a7c73c16</data>
+      <data key="d11">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d12">1762658374</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Shanghai Bright Food Group" target="Jiuhutang">
+      <data key="d7">1.0</data>
+      <data key="d8">Jiuhutang is a brand under the Shanghai Bright Food Group.</data>
+      <data key="d9">brand ownership,subsidiary</data>
+      <data key="d10">chunk-7843aef06d0c82abc4641013a7c73c16</data>
+      <data key="d11">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d12">1762658371</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Shanghai Bright Food Group" target="Beijing Century Longwen">
+      <data key="d7">1.0</data>
+      <data key="d8">Beijing Century Longwen, through Zhang Lei, handled brand promotion for Shanghai Bright Food Group's subsidiary Jiuhutang.</data>
+      <data key="d9">brand promotion,client project</data>
+      <data key="d10">chunk-a9ea347ca1eb9d2c7c390bcf9cf1f2b9</data>
+      <data key="d11">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d12">1762658417</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Jiuhutang" target="Graphic Designer">
+      <data key="d7">1.0</data>
+      <data key="d8">The Graphic Designer was responsible for brand promotion and event design for the Jiuhutang brand.</data>
+      <data key="d9">brand promotion,employment</data>
+      <data key="d10">chunk-7843aef06d0c82abc4641013a7c73c16</data>
+      <data key="d11">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d12">1762658374</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Jiuhutang" target="Beijing Century Longwen">
+      <data key="d7">1.0</data>
+      <data key="d8">Beijing Century Longwen, through Zhang Lei, handled brand promotion and activity design for Jiuhutang.</data>
+      <data key="d9">brand promotion,client project</data>
+      <data key="d10">chunk-a9ea347ca1eb9d2c7c390bcf9cf1f2b9</data>
+      <data key="d11">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d12">1762658421</data>
+      <data key="d13" />
+    </edge>
+    <edge source="GAC Toyota" target="Graphic Designer">
+      <data key="d7">1.0</data>
+      <data key="d8">The Graphic Designer was responsible for designing offline event materials for GAC Toyota.</data>
+      <data key="d9">employment,event design</data>
+      <data key="d10">chunk-7843aef06d0c82abc4641013a7c73c16</data>
+      <data key="d11">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d12">1762658375</data>
+      <data key="d13" />
+    </edge>
+    <edge source="GAC Toyota" target="Beijing Century Longwen">
+      <data key="d7">1.0</data>
+      <data key="d8">Beijing Century Longwen, through Zhang Lei, was responsible for offline activities for GAC Toyota.</data>
+      <data key="d9">client project,event management</data>
+      <data key="d10">chunk-a9ea347ca1eb9d2c7c390bcf9cf1f2b9</data>
+      <data key="d11">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d12">1762658423</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Longwen" target="Graphic Designer">
+      <data key="d7">1.0</data>
+      <data key="d8">The Graphic Designer handled VI extension design for their own company, Longwen.</data>
+      <data key="d9">VI design,employment</data>
+      <data key="d10">chunk-7843aef06d0c82abc4641013a7c73c16</data>
+      <data key="d11">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d12">1762658376</data>
+      <data key="d13" />
+    </edge>
+    <edge source="An Advertising Company" target="Graphic Designer">
+      <data key="d7">1.0</data>
+      <data key="d8">The Graphic Designer worked as a graphic designer for an advertising and exhibition company.</data>
+      <data key="d9">advertising,employment</data>
+      <data key="d10">chunk-7843aef06d0c82abc4641013a7c73c16</data>
+      <data key="d11">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d12">1762658377</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Qinghe Wucaicheng Mall" target="Graphic Designer">
+      <data key="d7">1.0</data>
+      <data key="d8">The Graphic Designer was responsible for daily advertising production inside Qinghe Wucaicheng Mall.</data>
+      <data key="d9">advertising production,employment</data>
+      <data key="d10">chunk-7843aef06d0c82abc4641013a7c73c16</data>
+      <data key="d11">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d12">1762658378</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Beijing Yinhe Changlong Investment Co., Ltd." target="Graphic Designer">
+      <data key="d7">1.0</data>
+      <data key="d8">The Graphic Designer worked in the planning department on advertising creative design for Beijing Yinhe Changlong Investment Co., Ltd.</data>
+      <data key="d9">creative design,employment</data>
+      <data key="d10">chunk-7843aef06d0c82abc4641013a7c73c16</data>
+      <data key="d11">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d12">1762658379</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Yitong Jiaye" target="Graphic Designer">
+      <data key="d7">1.0</data>
+      <data key="d8">The Graphic Designer worked in the planning department as a graphic designer for Yitong Jiaye.</data>
+      <data key="d9">corporate design,employment</data>
+      <data key="d10">chunk-7843aef06d0c82abc4641013a7c73c16</data>
+      <data key="d11">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d12">1762658380</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Beijing Vocational College of Science and Technology" target="Graphic Designer">
+      <data key="d7">1.0</data>
+      <data key="d8">The Graphic Designer studied Art Design at Beijing Vocational College of Science and Technology.</data>
+      <data key="d9">academic background,education</data>
+      <data key="d10">chunk-7843aef06d0c82abc4641013a7c73c16</data>
+      <data key="d11">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d12">1762658381</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Beijing Vocational College of Science and Technology" target="Art Design">
+      <data key="d7">1.0</data>
+      <data key="d8">Art Design was the major of study offered by Beijing Vocational College of Science and Technology which the individual completed.</data>
+      <data key="d9">academic program,education</data>
+      <data key="d10">chunk-7843aef06d0c82abc4641013a7c73c16</data>
+      <data key="d11">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d12">1762658382</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Graphic Designer" target="4A Company">
+      <data key="d7">1.0</data>
+      <data key="d8">The Graphic Designer has work experience at a 4A advertising company.</data>
+      <data key="d9">advertising agency,work experience</data>
+      <data key="d10">chunk-7843aef06d0c82abc4641013a7c73c16</data>
+      <data key="d11">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d12">1762658382</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Graphic Designer" target="Fast-Moving Consumer Goods">
+      <data key="d7">1.0</data>
+      <data key="d8">The Graphic Designer has experience serving the fast-moving consumer goods industry.</data>
+      <data key="d9">client sector,industry service</data>
+      <data key="d10">chunk-7843aef06d0c82abc4641013a7c73c16</data>
+      <data key="d11">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d12">1762658383</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Graphic Designer" target="Finance">
+      <data key="d7">1.0</data>
+      <data key="d8">The Graphic Designer has experience serving the finance industry.</data>
+      <data key="d9">client sector,industry service</data>
+      <data key="d10">chunk-7843aef06d0c82abc4641013a7c73c16</data>
+      <data key="d11">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d12">1762658384</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Graphic Designer" target="Photoshop">
+      <data key="d7">1.0</data>
+      <data key="d8">The Graphic Designer has proficient skills using Photoshop for 60 months.</data>
+      <data key="d9">skill proficiency,software tool</data>
+      <data key="d10">chunk-7843aef06d0c82abc4641013a7c73c16</data>
+      <data key="d11">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d12">1762658385</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Graphic Designer" target="Illustrator">
+      <data key="d7">1.0</data>
+      <data key="d8">The Graphic Designer has proficient skills using Illustrator.</data>
+      <data key="d9">skill proficiency,software tool</data>
+      <data key="d10">chunk-7843aef06d0c82abc4641013a7c73c16</data>
+      <data key="d11">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d12">1762658387</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Graphic Designer" target="English">
+      <data key="d7">1.0</data>
+      <data key="d8">The Graphic Designer has general ability in reading, writing, and speaking English.</data>
+      <data key="d9">language skill,proficiency</data>
+      <data key="d10">chunk-7843aef06d0c82abc4641013a7c73c16</data>
+      <data key="d11">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d12">1762658388</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Graphic Designer" target="New Media Communication">
+      <data key="d7">1.0</data>
+      <data key="d8">The Graphic Designer's main direction includes new media communication.</data>
+      <data key="d9">skill area,specialization</data>
+      <data key="d10">chunk-7843aef06d0c82abc4641013a7c73c16</data>
+      <data key="d11">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d12">1762658390</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Graphic Designer" target="Brand Marketing">
+      <data key="d7">1.0</data>
+      <data key="d8">The Graphic Designer's main direction includes brand marketing.</data>
+      <data key="d9">skill area,specialization</data>
+      <data key="d10">chunk-7843aef06d0c82abc4641013a7c73c16</data>
+      <data key="d11">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d12">1762658393</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Graphic Designer" target="Ten Years Of Graphic Design Experience">
+      <data key="d7">1.0</data>
+      <data key="d8">The Graphic Designer has accumulated over ten years of experience in the field.</data>
+      <data key="d9">duration,professional experience</data>
+      <data key="d10">chunk-7843aef06d0c82abc4641013a7c73c16</data>
+      <data key="d11">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d12">1762658396</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Graphic Designer" target="Four Years Of Client-Side Experience">
+      <data key="d7">1.0</data>
+      <data key="d8">The Graphic Designer has over four years of experience working on the client side.</data>
+      <data key="d9">professional experience,work context</data>
+      <data key="d10">chunk-7843aef06d0c82abc4641013a7c73c16</data>
+      <data key="d11">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d12">1762658398</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Event Planning" target="Zhang Lei">
+      <data key="d7">1.0</data>
+      <data key="d8">Zhang Lei offered Event Planning services through his Personal Studio.</data>
+      <data key="d9">professional skill,service offering</data>
+      <data key="d10">chunk-a9ea347ca1eb9d2c7c390bcf9cf1f2b9</data>
+      <data key="d11">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d12">1762658418</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Zhang Lei" target="Beijing Yanzhou Technology Co., Ltd.">
+      <data key="d7">1.0</data>
+      <data key="d8">Zhang Lei is applying for the New Media Operations position at Beijing Yanzhou Technology Co., Ltd.</data>
+      <data key="d9">candidate,job application</data>
+      <data key="d10">chunk-a9ea347ca1eb9d2c7c390bcf9cf1f2b9</data>
+      <data key="d11">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d12">1762658385</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Zhang Lei" target="Langfang Aiertai Energy Saving Technology Co., Ltd.">
+      <data key="d7">1.0</data>
+      <data key="d8">Zhang Lei is employed as a New Media Operations specialist at Langfang Aiertai Energy Saving Technology Co., Ltd.</data>
+      <data key="d9">employment,job role</data>
+      <data key="d10">chunk-a9ea347ca1eb9d2c7c390bcf9cf1f2b9</data>
+      <data key="d11">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d12">1762658386</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Zhang Lei" target="Tianjiu Sharing Holding Group Co., Ltd.">
+      <data key="d7">1.0</data>
+      <data key="d8">Zhang Lei was employed as a Creative Design Manager at Tianjiu Sharing Holding Group Co., Ltd.</data>
+      <data key="d9">employment,job role</data>
+      <data key="d10">chunk-a9ea347ca1eb9d2c7c390bcf9cf1f2b9</data>
+      <data key="d11">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d12">1762658389</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Zhang Lei" target="Beijing Zhongchuang Huasheng Group">
+      <data key="d7">1.0</data>
+      <data key="d8">Zhang Lei was employed as a Graphic Designer at Beijing Zhongchuang Huasheng Group.</data>
+      <data key="d9">employment,job role</data>
+      <data key="d10">chunk-a9ea347ca1eb9d2c7c390bcf9cf1f2b9</data>
+      <data key="d11">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d12">1762658390</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Zhang Lei" target="Beijing Weisai De Enterprise Planning Co., Ltd.">
+      <data key="d7">1.0</data>
+      <data key="d8">Zhang Lei was employed as a Designer at Beijing Weisai De Enterprise Planning Co., Ltd.</data>
+      <data key="d9">employment,job role</data>
+      <data key="d10">chunk-a9ea347ca1eb9d2c7c390bcf9cf1f2b9</data>
+      <data key="d11">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d12">1762658391</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Zhang Lei" target="Kudi Advertising Co., Ltd.">
+      <data key="d7">1.0</data>
+      <data key="d8">Zhang Lei was employed as a Designer at Kudi Advertising Co., Ltd.</data>
+      <data key="d9">employment,job role</data>
+      <data key="d10">chunk-a9ea347ca1eb9d2c7c390bcf9cf1f2b9</data>
+      <data key="d11">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d12">1762658394</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Zhang Lei" target="Beijing Century Longwen">
+      <data key="d7">1.0</data>
+      <data key="d8">Zhang Lei was employed as a Designer at Beijing Century Longwen.</data>
+      <data key="d9">employment,job role</data>
+      <data key="d10">chunk-a9ea347ca1eb9d2c7c390bcf9cf1f2b9</data>
+      <data key="d11">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d12">1762658395</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Zhang Lei" target="Personal Studio">
+      <data key="d7">1.0</data>
+      <data key="d8">Zhang Lei operated a Personal Studio focusing on event planning and graphic design.</data>
+      <data key="d9">operation,ownership</data>
+      <data key="d10">chunk-a9ea347ca1eb9d2c7c390bcf9cf1f2b9</data>
+      <data key="d11">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d12">1762658398</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Zhang Lei" target="Creative Director">
+      <data key="d7">1.0</data>
+      <data key="d8">Zhang Lei is seeking a position as a Creative Director.</data>
+      <data key="d9">career goal,job seeking</data>
+      <data key="d10">chunk-a9ea347ca1eb9d2c7c390bcf9cf1f2b9</data>
+      <data key="d11">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d12">1762658399</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Zhang Lei" target="Graphic Design">
+      <data key="d7">1.0</data>
+      <data key="d8">Zhang Lei has professional skills and experience in Graphic Design.</data>
+      <data key="d9">job function,professional skill</data>
+      <data key="d10">chunk-a9ea347ca1eb9d2c7c390bcf9cf1f2b9</data>
+      <data key="d11">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d12">1762658402</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Zhang Lei" target="Advertising Art Direction">
+      <data key="d7">1.0</data>
+      <data key="d8">Zhang Lei is seeking a position in Advertising Art Direction.</data>
+      <data key="d9">career goal,job seeking</data>
+      <data key="d10">chunk-a9ea347ca1eb9d2c7c390bcf9cf1f2b9</data>
+      <data key="d11">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d12">1762658404</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Zhang Lei" target="New Media Operations">
+      <data key="d7">1.0</data>
+      <data key="d8">Zhang Lei has professional skills and experience in New Media Operations, as demonstrated in his current role.</data>
+      <data key="d9">job function,professional skill</data>
+      <data key="d10">chunk-a9ea347ca1eb9d2c7c390bcf9cf1f2b9</data>
+      <data key="d11">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d12">1762658416</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Zhang Lei" target="Content Strategy">
+      <data key="d7">1.0</data>
+      <data key="d8">Zhang Lei implemented Content Strategy to manage Weibo accounts and enhance brand metrics.</data>
+      <data key="d9">implementation,professional skill</data>
+      <data key="d10">chunk-a9ea347ca1eb9d2c7c390bcf9cf1f2b9</data>
+      <data key="d11">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d12">1762658420</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Zhang Lei" target="Brand Image Design">
+      <data key="d7">1.0</data>
+      <data key="d8">Zhang Lei performed Brand Image Design work to improve brand professionalism.</data>
+      <data key="d9">job function,professional skill</data>
+      <data key="d10">chunk-a9ea347ca1eb9d2c7c390bcf9cf1f2b9</data>
+      <data key="d11">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d12">1762658423</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Zhang Lei" target="Project Design Positioning">
+      <data key="d7">1.0</data>
+      <data key="d8">Zhang Lei was responsible for Project Design Positioning for all projects at Tianjiu Sharing Holding Group.</data>
+      <data key="d9">management,professional responsibility</data>
+      <data key="d10">chunk-a9ea347ca1eb9d2c7c390bcf9cf1f2b9</data>
+      <data key="d11">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d12">1762658424</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Zhang Lei" target="HTML5 Development">
+      <data key="d7">1.0</data>
+      <data key="d8">Zhang Lei performed HTML5 Development work for client Qingniu Technology.</data>
+      <data key="d9">implementation,technical skill</data>
+      <data key="d10">chunk-a9ea347ca1eb9d2c7c390bcf9cf1f2b9</data>
+      <data key="d11">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d12">1762658425</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Langfang Aiertai Energy Saving Technology Co., Ltd." target="Today's Headlines">
+      <data key="d7">1.0</data>
+      <data key="d8">Langfang Aiertai Energy Saving Technology Co., Ltd. uses Today's Headlines for new media operations managed by Zhang Lei.</data>
+      <data key="d9">marketing,platform management</data>
+      <data key="d10">chunk-a9ea347ca1eb9d2c7c390bcf9cf1f2b9</data>
+      <data key="d11">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d12">1762658396</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Langfang Aiertai Energy Saving Technology Co., Ltd." target="Douyin">
+      <data key="d7">1.0</data>
+      <data key="d8">Langfang Aiertai Energy Saving Technology Co., Ltd. uses Douyin for new media operations managed by Zhang Lei.</data>
+      <data key="d9">marketing,platform management</data>
+      <data key="d10">chunk-a9ea347ca1eb9d2c7c390bcf9cf1f2b9</data>
+      <data key="d11">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d12">1762658397</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Langfang Aiertai Energy Saving Technology Co., Ltd." target="WeChat Channels">
+      <data key="d7">1.0</data>
+      <data key="d8">Langfang Aiertai Energy Saving Technology Co., Ltd. uses WeChat Channels for new media operations managed by Zhang Lei.</data>
+      <data key="d9">marketing,platform management</data>
+      <data key="d10">chunk-a9ea347ca1eb9d2c7c390bcf9cf1f2b9</data>
+      <data key="d11">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d12">1762658400</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Langfang Aiertai Energy Saving Technology Co., Ltd." target="Official Accounts">
+      <data key="d7">1.0</data>
+      <data key="d8">Langfang Aiertai Energy Saving Technology Co., Ltd. uses Official Accounts for new media operations managed by Zhang Lei.</data>
+      <data key="d9">marketing,platform management</data>
+      <data key="d10">chunk-a9ea347ca1eb9d2c7c390bcf9cf1f2b9</data>
+      <data key="d11">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d12">1762658401</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Langfang Aiertai Energy Saving Technology Co., Ltd." target="Weibo">
+      <data key="d7">1.0</data>
+      <data key="d8">Langfang Aiertai Energy Saving Technology Co., Ltd. uses Weibo for official and entertainment account management by Zhang Lei.</data>
+      <data key="d9">marketing,platform management</data>
+      <data key="d10">chunk-a9ea347ca1eb9d2c7c390bcf9cf1f2b9</data>
+      <data key="d11">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d12">1762658405</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Tianjiu Sharing Holding Group Co., Ltd." target="Siyue Hentun">
+      <data key="d7">1.0</data>
+      <data key="d8">Tianjiu Sharing Holding Group Co., Ltd., through Zhang Lei, provided design services for Siyue Hentun.</data>
+      <data key="d9">client project,design service</data>
+      <data key="d10">chunk-a9ea347ca1eb9d2c7c390bcf9cf1f2b9</data>
+      <data key="d11">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d12">1762658400</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Tianjiu Sharing Holding Group Co., Ltd." target="Ai Hui Shou">
+      <data key="d7">1.0</data>
+      <data key="d8">Tianjiu Sharing Holding Group Co., Ltd., through Zhang Lei, provided design services for Ai Hui Shou.</data>
+      <data key="d9">client project,design service</data>
+      <data key="d10">chunk-a9ea347ca1eb9d2c7c390bcf9cf1f2b9</data>
+      <data key="d11">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d12">1762658403</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Tianjiu Sharing Holding Group Co., Ltd." target="Wali Factory">
+      <data key="d7">1.0</data>
+      <data key="d8">Tianjiu Sharing Holding Group Co., Ltd., through Zhang Lei, provided design services for Wali Factory.</data>
+      <data key="d9">client project,design service</data>
+      <data key="d10">chunk-a9ea347ca1eb9d2c7c390bcf9cf1f2b9</data>
+      <data key="d11">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d12">1762658405</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Tianjiu Sharing Holding Group Co., Ltd." target="First Class Cabin">
+      <data key="d7">1.0</data>
+      <data key="d8">Tianjiu Sharing Holding Group Co., Ltd., through Zhang Lei, provided design services for First Class Cabin.</data>
+      <data key="d9">client project,design service</data>
+      <data key="d10">chunk-a9ea347ca1eb9d2c7c390bcf9cf1f2b9</data>
+      <data key="d11">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d12">1762658407</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Tianjiu Sharing Holding Group Co., Ltd." target="Tianchao Shangpin">
+      <data key="d7">1.0</data>
+      <data key="d8">Tianjiu Sharing Holding Group Co., Ltd., through Zhang Lei, provided design services for Tianchao Shangpin.</data>
+      <data key="d9">client project,design service</data>
+      <data key="d10">chunk-a9ea347ca1eb9d2c7c390bcf9cf1f2b9</data>
+      <data key="d11">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d12">1762658410</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Tianjiu Sharing Holding Group Co., Ltd." target="East China Health">
+      <data key="d7">1.0</data>
+      <data key="d8">Tianjiu Sharing Holding Group Co., Ltd., through Zhang Lei, provided design services for East China Health.</data>
+      <data key="d9">client project,design service</data>
+      <data key="d10">chunk-a9ea347ca1eb9d2c7c390bcf9cf1f2b9</data>
+      <data key="d11">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d12">1762658411</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Beijing Zhongchuang Huasheng Group" target="VIS">
+      <data key="d7">1.0</data>
+      <data key="d8">Beijing Zhongchuang Huasheng Group, through Zhang Lei, worked on VIS (Visual Identity System) as part of company brand design.</data>
+      <data key="d9">brand design,corporate identity</data>
+      <data key="d10">chunk-a9ea347ca1eb9d2c7c390bcf9cf1f2b9</data>
+      <data key="d11">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d12">1762658421</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Beijing Weisai De Enterprise Planning Co., Ltd." target="Seagate Technology">
+      <data key="d7">1.0</data>
+      <data key="d8">Beijing Weisai De Enterprise Planning Co., Ltd., through Zhang Lei, provided conference material design for Seagate Technology.</data>
+      <data key="d9">client project,design service</data>
+      <data key="d10">chunk-a9ea347ca1eb9d2c7c390bcf9cf1f2b9</data>
+      <data key="d11">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d12">1762658405</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Beijing Weisai De Enterprise Planning Co., Ltd." target="F5">
+      <data key="d7">1.0</data>
+      <data key="d8">Beijing Weisai De Enterprise Planning Co., Ltd., through Zhang Lei, provided online event design for F5.</data>
+      <data key="d9">client project,design service</data>
+      <data key="d10">chunk-a9ea347ca1eb9d2c7c390bcf9cf1f2b9</data>
+      <data key="d11">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d12">1762658408</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Beijing Weisai De Enterprise Planning Co., Ltd." target="Fujifilm">
+      <data key="d7">1.0</data>
+      <data key="d8">Beijing Weisai De Enterprise Planning Co., Ltd., through Zhang Lei, provided design and brand promotion services for Fujifilm.</data>
+      <data key="d9">client project,design service</data>
+      <data key="d10">chunk-a9ea347ca1eb9d2c7c390bcf9cf1f2b9</data>
+      <data key="d11">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d12">1762658409</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Kudi Advertising Co., Ltd." target="Jinmailang Liang Bai Kai">
+      <data key="d7">1.0</data>
+      <data key="d8">Kudi Advertising Co., Ltd., through Zhang Lei, was responsible for the full annual marketing plan for Jinmailang Liang Bai Kai.</data>
+      <data key="d9">client project,marketing campaign</data>
+      <data key="d10">chunk-a9ea347ca1eb9d2c7c390bcf9cf1f2b9</data>
+      <data key="d11">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d12">1762658408</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Kudi Advertising Co., Ltd." target="Jinmailang Yi Tong Mian">
+      <data key="d7">1.0</data>
+      <data key="d8">Kudi Advertising Co., Ltd., through Zhang Lei, designed promotional materials for Jinmailang Yi Tong Mian.</data>
+      <data key="d9">client project,promotional design</data>
+      <data key="d10">chunk-a9ea347ca1eb9d2c7c390bcf9cf1f2b9</data>
+      <data key="d11">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d12">1762658410</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Kudi Advertising Co., Ltd." target="Nestle Milk Powder">
+      <data key="d7">1.0</data>
+      <data key="d8">Kudi Advertising Co., Ltd., through Zhang Lei, designed online promotions for Nestle Milk Powder.</data>
+      <data key="d9">client project,promotional design</data>
+      <data key="d10">chunk-a9ea347ca1eb9d2c7c390bcf9cf1f2b9</data>
+      <data key="d11">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d12">1762658413</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Kudi Advertising Co., Ltd." target="Xiwang Cooking Oil">
+      <data key="d7">1.0</data>
+      <data key="d8">Kudi Advertising Co., Ltd., through Zhang Lei, handled brand promotion planning and design for Xiwang Cooking Oil.</data>
+      <data key="d9">brand promotion,client project</data>
+      <data key="d10">chunk-a9ea347ca1eb9d2c7c390bcf9cf1f2b9</data>
+      <data key="d11">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d12">1762658415</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Kudi Advertising Co., Ltd." target="For Example World">
+      <data key="d7">1.0</data>
+      <data key="d8">Kudi Advertising Co., Ltd., through Zhang Lei, designed activity materials for For Example World.</data>
+      <data key="d9">activity design,client project</data>
+      <data key="d10">chunk-a9ea347ca1eb9d2c7c390bcf9cf1f2b9</data>
+      <data key="d11">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d12">1762658416</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Kudi Advertising Co., Ltd." target="Nestle National Roadshow">
+      <data key="d7">1.0</data>
+      <data key="d8">Kudi Advertising Co., Ltd., through Zhang Lei, designed materials and handled feedback for the Nestle National Roadshow.</data>
+      <data key="d9">client project,event support</data>
+      <data key="d10">chunk-a9ea347ca1eb9d2c7c390bcf9cf1f2b9</data>
+      <data key="d11">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d12">1762658419</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Beijing Century Longwen" target="Jiaduobao">
+      <data key="d7">1.0</data>
+      <data key="d8">Beijing Century Longwen, through Zhang Lei, handled online promotional design for Jiaduobao.</data>
+      <data key="d9">client project,promotional design</data>
+      <data key="d10">chunk-a9ea347ca1eb9d2c7c390bcf9cf1f2b9</data>
+      <data key="d11">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d12">1762658412</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Beijing Century Longwen" target="Tsingtao Beer">
+      <data key="d7">1.0</data>
+      <data key="d8">Beijing Century Longwen, through Zhang Lei, handled online promotion design for Tsingtao Beer.</data>
+      <data key="d9">client project,promotional design</data>
+      <data key="d10">chunk-a9ea347ca1eb9d2c7c390bcf9cf1f2b9</data>
+      <data key="d11">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d12">1762658415</data>
+      <data key="d13" />
+    </edge>
+    <edge source="discarded_cfba7a3eac06752e9f3de9fb46d3a2d5" target="Discarded Content Analysis">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Discarded Content Analysis belongs to discarded_cfba7a3eac06752e9f3de9fb46d3a2d5</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-127c4c8507dfbf71eddd6f36a7eaaffa</data>
+      <data key="d11">d:/yuki/LightRAG/hire_document\0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d12">1762658486</data>
+      <data key="d13" />
+    </edge>
+    <edge source="discarded_cfba7a3eac06752e9f3de9fb46d3a2d5" target="BBox">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity BBox belongs to discarded_cfba7a3eac06752e9f3de9fb46d3a2d5</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-127c4c8507dfbf71eddd6f36a7eaaffa</data>
+      <data key="d11">d:/yuki/LightRAG/hire_document\0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d12">1762658488</data>
+      <data key="d13" />
+    </edge>
+    <edge source="discarded_cfba7a3eac06752e9f3de9fb46d3a2d5" target="Page Index">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Page Index belongs to discarded_cfba7a3eac06752e9f3de9fb46d3a2d5</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-127c4c8507dfbf71eddd6f36a7eaaffa</data>
+      <data key="d11">d:/yuki/LightRAG/hire_document\0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d12">1762658489</data>
+      <data key="d13" />
+    </edge>
+    <edge source="discarded_cfba7a3eac06752e9f3de9fb46d3a2d5" target="Type">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Type belongs to discarded_cfba7a3eac06752e9f3de9fb46d3a2d5</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-127c4c8507dfbf71eddd6f36a7eaaffa</data>
+      <data key="d11">d:/yuki/LightRAG/hire_document\0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d12">1762658491</data>
+      <data key="d13" />
+    </edge>
+    <edge source="discarded_cfba7a3eac06752e9f3de9fb46d3a2d5" target="Text">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Text belongs to discarded_cfba7a3eac06752e9f3de9fb46d3a2d5</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-127c4c8507dfbf71eddd6f36a7eaaffa</data>
+      <data key="d11">d:/yuki/LightRAG/hire_document\0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d12">1762658493</data>
+      <data key="d13" />
+    </edge>
+    <edge source="discarded_cfba7a3eac06752e9f3de9fb46d3a2d5" target="Content">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Content belongs to discarded_cfba7a3eac06752e9f3de9fb46d3a2d5</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-127c4c8507dfbf71eddd6f36a7eaaffa</data>
+      <data key="d11">d:/yuki/LightRAG/hire_document\0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d12">1762658497</data>
+      <data key="d13" />
+    </edge>
+    <edge source="discarded_cfba7a3eac06752e9f3de9fb46d3a2d5" target="Analysis">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Analysis belongs to discarded_cfba7a3eac06752e9f3de9fb46d3a2d5</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-127c4c8507dfbf71eddd6f36a7eaaffa</data>
+      <data key="d11">d:/yuki/LightRAG/hire_document\0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d12">1762658501</data>
+      <data key="d13" />
+    </edge>
+    <edge source="discarded_e9452068128ce0301ff5be4b9509114d" target="Zhaopin">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Zhaopin belongs to discarded_e9452068128ce0301ff5be4b9509114d</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-aaea8005c9772d897946e66240d0cc95</data>
+      <data key="d11">d:/yuki/LightRAG/hire_document\0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d12">1762658499</data>
+      <data key="d13" />
+    </edge>
+    <edge source="discarded_e9452068128ce0301ff5be4b9509114d" target="WeChat">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity WeChat belongs to discarded_e9452068128ce0301ff5be4b9509114d</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-aaea8005c9772d897946e66240d0cc95</data>
+      <data key="d11">d:/yuki/LightRAG/hire_document\0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d12">1762658501</data>
+      <data key="d13" />
+    </edge>
+    <edge source="discarded_e9452068128ce0301ff5be4b9509114d" target="Zhaopin App">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Zhaopin App belongs to discarded_e9452068128ce0301ff5be4b9509114d</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-aaea8005c9772d897946e66240d0cc95</data>
+      <data key="d11">d:/yuki/LightRAG/hire_document\0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d12">1762658502</data>
+      <data key="d13" />
+    </edge>
+    <edge source="discarded_e9452068128ce0301ff5be4b9509114d" target="Resume ID: Ed7aL61Bw6FUMqoGel0(O) f2RGnoXMvV">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Resume ID: Ed7aL61Bw6FUMqoGel0(O) f2RGnoXMvV belongs to discarded_e9452068128ce0301ff5be4b9509114d</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-aaea8005c9772d897946e66240d0cc95</data>
+      <data key="d11">d:/yuki/LightRAG/hire_document\0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d12">1762658504</data>
+      <data key="d13" />
+    </edge>
+    <edge source="discarded_e9452068128ce0301ff5be4b9509114d" target="Discarded Content Analysis">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Discarded Content Analysis belongs to discarded_e9452068128ce0301ff5be4b9509114d</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-aaea8005c9772d897946e66240d0cc95</data>
+      <data key="d11">d:/yuki/LightRAG/hire_document\0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d12">1762658507</data>
+      <data key="d13" />
+    </edge>
+    <edge source="discarded_e9452068128ce0301ff5be4b9509114d" target="Bbox [55, 32, 946, 108]">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Bbox [55, 32, 946, 108] belongs to discarded_e9452068128ce0301ff5be4b9509114d</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-aaea8005c9772d897946e66240d0cc95</data>
+      <data key="d11">d:/yuki/LightRAG/hire_document\0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d12">1762658508</data>
+      <data key="d13" />
+    </edge>
+    <edge source="discarded_e9452068128ce0301ff5be4b9509114d" target="Page Index 0">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Page Index 0 belongs to discarded_e9452068128ce0301ff5be4b9509114d</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-aaea8005c9772d897946e66240d0cc95</data>
+      <data key="d11">d:/yuki/LightRAG/hire_document\0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d12">1762658510</data>
+      <data key="d13" />
+    </edge>
+    <edge source="discarded_e9452068128ce0301ff5be4b9509114d" target="Resume Download">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Resume Download belongs to discarded_e9452068128ce0301ff5be4b9509114d</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-aaea8005c9772d897946e66240d0cc95</data>
+      <data key="d11">d:/yuki/LightRAG/hire_document\0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d12">1762658514</data>
+      <data key="d13" />
+    </edge>
+    <edge source="discarded_f7baf063c8f3ecfad1aa7f7ee8ed4b8b" target="Analysis">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Analysis belongs to discarded_f7baf063c8f3ecfad1aa7f7ee8ed4b8b</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-f66bfb9283d8f00ff346a99b9a0f998d</data>
+      <data key="d11">d:/yuki/LightRAG/hire_document\0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d12">1762658512</data>
+      <data key="d13" />
+    </edge>
+    <edge source="discarded_f7baf063c8f3ecfad1aa7f7ee8ed4b8b" target="Bounding Box">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Bounding Box belongs to discarded_f7baf063c8f3ecfad1aa7f7ee8ed4b8b</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-f66bfb9283d8f00ff346a99b9a0f998d</data>
+      <data key="d11">d:/yuki/LightRAG/hire_document\0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d12">1762658514</data>
+      <data key="d13" />
+    </edge>
+    <edge source="discarded_f7baf063c8f3ecfad1aa7f7ee8ed4b8b" target="Page 1">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Page 1 belongs to discarded_f7baf063c8f3ecfad1aa7f7ee8ed4b8b</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-f66bfb9283d8f00ff346a99b9a0f998d</data>
+      <data key="d11">d:/yuki/LightRAG/hire_document\0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d12">1762658516</data>
+      <data key="d13" />
+    </edge>
+    <edge source="discarded_f7baf063c8f3ecfad1aa7f7ee8ed4b8b" target="广告设计">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity 广告设计 belongs to discarded_f7baf063c8f3ecfad1aa7f7ee8ed4b8b</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-f66bfb9283d8f00ff346a99b9a0f998d</data>
+      <data key="d11">d:/yuki/LightRAG/hire_document\0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d12">1762658517</data>
+      <data key="d13" />
+    </edge>
+    <edge source="discarded_f7baf063c8f3ecfad1aa7f7ee8ed4b8b" target="广告营销">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity 广告营销 belongs to discarded_f7baf063c8f3ecfad1aa7f7ee8ed4b8b</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-f66bfb9283d8f00ff346a99b9a0f998d</data>
+      <data key="d11">d:/yuki/LightRAG/hire_document\0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d12">1762658518</data>
+      <data key="d13" />
+    </edge>
+    <edge source="discarded_f7baf063c8f3ecfad1aa7f7ee8ed4b8b" target="广告策划">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity 广告策划 belongs to discarded_f7baf063c8f3ecfad1aa7f7ee8ed4b8b</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-f66bfb9283d8f00ff346a99b9a0f998d</data>
+      <data key="d11">d:/yuki/LightRAG/hire_document\0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d12">1762658518</data>
+      <data key="d13" />
+    </edge>
+    <edge source="discarded_f7baf063c8f3ecfad1aa7f7ee8ed4b8b" target="Discarded Content">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Discarded Content belongs to discarded_f7baf063c8f3ecfad1aa7f7ee8ed4b8b</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-f66bfb9283d8f00ff346a99b9a0f998d</data>
+      <data key="d11">d:/yuki/LightRAG/hire_document\0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d12">1762658519</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Discarded Content Analysis" target="Content">
+      <data key="d7">3.0</data>
+      <data key="d8">Discarded Content Analysis is performed on the discarded Content&lt;SEP&gt;Discarded Content Analysis is performed on the specific Content item.&lt;SEP&gt;Discarded Content Analysis is applied to the Content item to categorize it as 'discarded'.</data>
+      <data key="d9">analysis,analysis process,categorization,classification,content evaluation,processing method</data>
+      <data key="d10">chunk-127c4c8507dfbf71eddd6f36a7eaaffa&lt;SEP&gt;chunk-5a8546f5022b0a9f43203a6565c649dc&lt;SEP&gt;chunk-f83ea90fdf82e83495ca08290eb06337</data>
+      <data key="d11">0a0b384ab34d44ab86094891776925fe.pdf&lt;SEP&gt;0b51280804da4b20bfc97b518cdcfa40.pdf</data>
+      <data key="d12">1762658745</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Discarded Content Analysis" target="Zhaopin">
+      <data key="d7">1.0</data>
+      <data key="d8">The Discarded Content Analysis is being performed on content originating from the Zhaopin platform.</data>
+      <data key="d9">Analysis,Platform</data>
+      <data key="d10">chunk-aaea8005c9772d897946e66240d0cc95</data>
+      <data key="d11">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d12">1762658491</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Discarded Content Analysis" target="Resume ID: Ed7aL61Bw6FUMqoGel0(O) f2RGnoXMvV">
+      <data key="d7">1.0</data>
+      <data key="d8">The Discarded Content Analysis includes the specific Resume ID as part of the content being analyzed.</data>
+      <data key="d9">Analysis,Identification</data>
+      <data key="d10">chunk-aaea8005c9772d897946e66240d0cc95</data>
+      <data key="d11">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d12">1762658492</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Discarded Content Analysis" target="Bbox [55, 32, 946, 108]">
+      <data key="d7">1.0</data>
+      <data key="d8">The bounding box coordinates are metadata associated with the discarded content being analyzed.</data>
+      <data key="d9">Analysis,Spatial Data</data>
+      <data key="d10">chunk-aaea8005c9772d897946e66240d0cc95</data>
+      <data key="d11">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d12">1762658495</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Discarded Content Analysis" target="Page Index 0">
+      <data key="d7">1.0</data>
+      <data key="d8">The page index is metadata indicating the location of the discarded content being analyzed.</data>
+      <data key="d9">Analysis,Location Data</data>
+      <data key="d10">chunk-aaea8005c9772d897946e66240d0cc95</data>
+      <data key="d11">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d12">1762658498</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Discarded Content Analysis" target="discarded_f4aa7e291a900a7ee78e5f5aa9e77ab6">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Discarded Content Analysis belongs to discarded_f4aa7e291a900a7ee78e5f5aa9e77ab6</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-3deaad5a7aa48f15477bdbc72813f61e</data>
+      <data key="d11">d:/yuki/LightRAG/hire_document\0b51280804da4b20bfc97b518cdcfa40.pdf</data>
+      <data key="d12">1762658741</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Discarded Content Analysis" target="discarded_8bdb39ee239d4edd224e94eaeb1bb931">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Discarded Content Analysis belongs to discarded_8bdb39ee239d4edd224e94eaeb1bb931</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-5a8546f5022b0a9f43203a6565c649dc</data>
+      <data key="d11">d:/yuki/LightRAG/hire_document\0b51280804da4b20bfc97b518cdcfa40.pdf</data>
+      <data key="d12">1762658752</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Discarded Content Analysis" target="discarded_3aa9ab98ba0ca993f6410419faf83595">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Discarded Content Analysis belongs to discarded_3aa9ab98ba0ca993f6410419faf83595</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-f83ea90fdf82e83495ca08290eb06337</data>
+      <data key="d11">d:/yuki/LightRAG/hire_document\0b51280804da4b20bfc97b518cdcfa40.pdf</data>
+      <data key="d12">1762658764</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Content" target="BBox">
+      <data key="d7">1.0</data>
+      <data key="d8">Content has associated bounding box coordinates defining its location</data>
+      <data key="d9">content location,spatial data</data>
+      <data key="d10">chunk-127c4c8507dfbf71eddd6f36a7eaaffa</data>
+      <data key="d11">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d12">1762658486</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Content" target="Page Index">
+      <data key="d7">2.0</data>
+      <data key="d8">Content is located on a specific page indicated by the page index&lt;SEP&gt;The Content item is located on a specific page index.</data>
+      <data key="d9">document structure,location data,metadata,page reference</data>
+      <data key="d10">chunk-127c4c8507dfbf71eddd6f36a7eaaffa&lt;SEP&gt;chunk-f83ea90fdf82e83495ca08290eb06337</data>
+      <data key="d11">0a0b384ab34d44ab86094891776925fe.pdf&lt;SEP&gt;0b51280804da4b20bfc97b518cdcfa40.pdf</data>
+      <data key="d12">1762658772</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Content" target="Analysis">
+      <data key="d7">3.0</data>
+      <data key="d8">Analysis is conducted on the Content artifact&lt;SEP&gt;Analysis is performed on the Content, resulting in its classification as 'discarded'.&lt;SEP&gt;The Analysis is performed on the Content item.</data>
+      <data key="d9">analysis,categorization,data processing,evaluation,evaluation method,result classification</data>
+      <data key="d10">chunk-127c4c8507dfbf71eddd6f36a7eaaffa&lt;SEP&gt;chunk-5a8546f5022b0a9f43203a6565c649dc&lt;SEP&gt;chunk-f83ea90fdf82e83495ca08290eb06337</data>
+      <data key="d11">0a0b384ab34d44ab86094891776925fe.pdf&lt;SEP&gt;0b51280804da4b20bfc97b518cdcfa40.pdf</data>
+      <data key="d12">1762658755</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Content" target="Type">
+      <data key="d7">1.0</data>
+      <data key="d8">Content is classified with a specific type designation</data>
+      <data key="d9">categorization,classification</data>
+      <data key="d10">chunk-127c4c8507dfbf71eddd6f36a7eaaffa</data>
+      <data key="d11">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d12">1762658493</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Content" target="Text">
+      <data key="d7">1.0</data>
+      <data key="d8">Content contains specific text data</data>
+      <data key="d9">content storage,data representation</data>
+      <data key="d10">chunk-127c4c8507dfbf71eddd6f36a7eaaffa</data>
+      <data key="d11">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d12">1762658495</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Content" target="discarded_f4aa7e291a900a7ee78e5f5aa9e77ab6">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Content belongs to discarded_f4aa7e291a900a7ee78e5f5aa9e77ab6</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-3deaad5a7aa48f15477bdbc72813f61e</data>
+      <data key="d11">d:/yuki/LightRAG/hire_document\0b51280804da4b20bfc97b518cdcfa40.pdf</data>
+      <data key="d12">1762658743</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Content" target="智联招聘">
+      <data key="d7">1.0</data>
+      <data key="d8">The Content text originates from the智联招聘recruitment platform.</data>
+      <data key="d9">platform source,recruitment service</data>
+      <data key="d10">chunk-5a8546f5022b0a9f43203a6565c649dc</data>
+      <data key="d11">0b51280804da4b20bfc97b518cdcfa40.pdf</data>
+      <data key="d12">1762658747</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Content" target="Resume ID: XGcFHJ)eJgcxJ0nZ1NIWo18cxl8EEclt">
+      <data key="d7">1.0</data>
+      <data key="d8">The Content contains the specific Resume ID for a candidate's profile.</data>
+      <data key="d9">data reference,unique identifier</data>
+      <data key="d10">chunk-5a8546f5022b0a9f43203a6565c649dc</data>
+      <data key="d11">0b51280804da4b20bfc97b518cdcfa40.pdf</data>
+      <data key="d12">1762658749</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Content" target="微信">
+      <data key="d7">1.0</data>
+      <data key="d8">The Content indicates that微信is a supported method for accessing the service.</data>
+      <data key="d9">access method,platform support</data>
+      <data key="d10">chunk-5a8546f5022b0a9f43203a6565c649dc</data>
+      <data key="d11">0b51280804da4b20bfc97b518cdcfa40.pdf</data>
+      <data key="d12">1762658750</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Content" target="智联App">
+      <data key="d7">1.0</data>
+      <data key="d8">The Content references the智联App as the tool used to download the resume.</data>
+      <data key="d9">application usage,download tool</data>
+      <data key="d10">chunk-5a8546f5022b0a9f43203a6565c649dc</data>
+      <data key="d11">0b51280804da4b20bfc97b518cdcfa40.pdf</data>
+      <data key="d12">1762658751</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Content" target="Download Date: 2025-02-19">
+      <data key="d7">1.0</data>
+      <data key="d8">The Content includes the specific date when the resume download occurred.</data>
+      <data key="d9">access timestamp,temporal data</data>
+      <data key="d10">chunk-5a8546f5022b0a9f43203a6565c649dc</data>
+      <data key="d11">0b51280804da4b20bfc97b518cdcfa40.pdf</data>
+      <data key="d12">1762658753</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Content" target="Bbox Coordinates [53, 45, 937, 108]">
+      <data key="d7">1.0</data>
+      <data key="d8">The Content item is associated with specific bounding box coordinates on the page.</data>
+      <data key="d9">location metadata,spatial data</data>
+      <data key="d10">chunk-5a8546f5022b0a9f43203a6565c649dc</data>
+      <data key="d11">0b51280804da4b20bfc97b518cdcfa40.pdf</data>
+      <data key="d12">1762658756</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Content" target="Page Index 0">
+      <data key="d7">1.0</data>
+      <data key="d8">The Content item is located on page index 0 of the document.</data>
+      <data key="d9">document structure,page reference</data>
+      <data key="d10">chunk-5a8546f5022b0a9f43203a6565c649dc</data>
+      <data key="d11">0b51280804da4b20bfc97b518cdcfa40.pdf</data>
+      <data key="d12">1762658757</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Content" target="discarded_8bdb39ee239d4edd224e94eaeb1bb931">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Content belongs to discarded_8bdb39ee239d4edd224e94eaeb1bb931</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-5a8546f5022b0a9f43203a6565c649dc</data>
+      <data key="d11">d:/yuki/LightRAG/hire_document\0b51280804da4b20bfc97b518cdcfa40.pdf</data>
+      <data key="d12">1762658762</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Content" target="Channel Sales">
+      <data key="d7">1.0</data>
+      <data key="d8">The Content item contains the term Channel Sales.</data>
+      <data key="d9">inclusion,topic</data>
+      <data key="d10">chunk-f83ea90fdf82e83495ca08290eb06337</data>
+      <data key="d11">0b51280804da4b20bfc97b518cdcfa40.pdf</data>
+      <data key="d12">1762658764</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Content" target="Agent Sales">
+      <data key="d7">1.0</data>
+      <data key="d8">The Content item contains the term Agent Sales.</data>
+      <data key="d9">inclusion,topic</data>
+      <data key="d10">chunk-f83ea90fdf82e83495ca08290eb06337</data>
+      <data key="d11">0b51280804da4b20bfc97b518cdcfa40.pdf</data>
+      <data key="d12">1762658765</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Content" target="Bbox">
+      <data key="d7">1.0</data>
+      <data key="d8">The Content item has an associated bounding box location on the page.</data>
+      <data key="d9">location data,metadata</data>
+      <data key="d10">chunk-f83ea90fdf82e83495ca08290eb06337</data>
+      <data key="d11">0b51280804da4b20bfc97b518cdcfa40.pdf</data>
+      <data key="d12">1762658767</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Content" target="discarded_3aa9ab98ba0ca993f6410419faf83595">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Content belongs to discarded_3aa9ab98ba0ca993f6410419faf83595</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-f83ea90fdf82e83495ca08290eb06337</data>
+      <data key="d11">d:/yuki/LightRAG/hire_document\0b51280804da4b20bfc97b518cdcfa40.pdf</data>
+      <data key="d12">1762658773</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Analysis" target="Type">
+      <data key="d7">1.0</data>
+      <data key="d8">Analysis is classified with a specific type designation</data>
+      <data key="d9">analysis type,classification</data>
+      <data key="d10">chunk-127c4c8507dfbf71eddd6f36a7eaaffa</data>
+      <data key="d11">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d12">1762658494</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Analysis" target="Discarded Content">
+      <data key="d7">1.0</data>
+      <data key="d8">Analysis was performed on the discarded content to determine its type and properties.</data>
+      <data key="d9">categorization,examination</data>
+      <data key="d10">chunk-f66bfb9283d8f00ff346a99b9a0f998d</data>
+      <data key="d11">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d12">1762658503</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Analysis" target="Bounding Box">
+      <data key="d7">1.0</data>
+      <data key="d8">Analysis identified the bounding box coordinates as part of the content's metadata.</data>
+      <data key="d9">data extraction,spatial analysis</data>
+      <data key="d10">chunk-f66bfb9283d8f00ff346a99b9a0f998d</data>
+      <data key="d11">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d12">1762658506</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Analysis" target="Page 1">
+      <data key="d7">1.0</data>
+      <data key="d8">Analysis identified that the content was from page 1 of the document.</data>
+      <data key="d9">document analysis</data>
+      <data key="d10">chunk-f66bfb9283d8f00ff346a99b9a0f998d</data>
+      <data key="d11">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d12">1762658509</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Analysis" target="discarded_f4aa7e291a900a7ee78e5f5aa9e77ab6">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Analysis belongs to discarded_f4aa7e291a900a7ee78e5f5aa9e77ab6</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-3deaad5a7aa48f15477bdbc72813f61e</data>
+      <data key="d11">d:/yuki/LightRAG/hire_document\0b51280804da4b20bfc97b518cdcfa40.pdf</data>
+      <data key="d12">1762658742</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Analysis" target="Bbox Coordinates [53, 45, 937, 108]">
+      <data key="d7">1.0</data>
+      <data key="d8">The Analysis was performed on content located within the specified bounding box coordinates.</data>
+      <data key="d9">analysis scope,spatial data</data>
+      <data key="d10">chunk-5a8546f5022b0a9f43203a6565c649dc</data>
+      <data key="d11">0b51280804da4b20bfc97b518cdcfa40.pdf</data>
+      <data key="d12">1762658758</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Analysis" target="Page Index 0">
+      <data key="d7">1.0</data>
+      <data key="d8">The Analysis pertains to content found on page index 0 of the document.</data>
+      <data key="d9">analysis location,document context</data>
+      <data key="d10">chunk-5a8546f5022b0a9f43203a6565c649dc</data>
+      <data key="d11">0b51280804da4b20bfc97b518cdcfa40.pdf</data>
+      <data key="d12">1762658762</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Analysis" target="discarded_8bdb39ee239d4edd224e94eaeb1bb931">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Analysis belongs to discarded_8bdb39ee239d4edd224e94eaeb1bb931</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-5a8546f5022b0a9f43203a6565c649dc</data>
+      <data key="d11">d:/yuki/LightRAG/hire_document\0b51280804da4b20bfc97b518cdcfa40.pdf</data>
+      <data key="d12">1762658766</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Analysis" target="discarded_3aa9ab98ba0ca993f6410419faf83595">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Analysis belongs to discarded_3aa9ab98ba0ca993f6410419faf83595</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-f83ea90fdf82e83495ca08290eb06337</data>
+      <data key="d11">d:/yuki/LightRAG/hire_document\0b51280804da4b20bfc97b518cdcfa40.pdf</data>
+      <data key="d12">1762658769</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Page Index" target="Visual Analysis">
+      <data key="d7">1.0</data>
+      <data key="d8">Visual Analysis includes a Page Index value, indicating the page where the image or analysis result is located.</data>
+      <data key="d9">document structure,page reference</data>
+      <data key="d10">chunk-2486ce00736ec9033245d29f1f2ba3db</data>
+      <data key="d11">0b51280804da4b20bfc97b518cdcfa40.pdf</data>
+      <data key="d12">1762658739</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Page Index" target="image_9203f848317d76a002daae0c198f9fc8">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Page Index belongs to image_9203f848317d76a002daae0c198f9fc8</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-2486ce00736ec9033245d29f1f2ba3db</data>
+      <data key="d11">d:/yuki/LightRAG/hire_document\0b51280804da4b20bfc97b518cdcfa40.pdf</data>
+      <data key="d12">1762658746</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Page Index" target="discarded_3aa9ab98ba0ca993f6410419faf83595">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Page Index belongs to discarded_3aa9ab98ba0ca993f6410419faf83595</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-f83ea90fdf82e83495ca08290eb06337</data>
+      <data key="d11">d:/yuki/LightRAG/hire_document\0b51280804da4b20bfc97b518cdcfa40.pdf</data>
+      <data key="d12">1762658770</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Resume ID: Ed7aL61Bw6FUMqoGel0(O) f2RGnoXMvV" target="Resume Download">
+      <data key="d7">1.0</data>
+      <data key="d8">The Resume Download event pertained specifically to the resume identified by its unique ID.</data>
+      <data key="d9">Event,Object</data>
+      <data key="d10">chunk-aaea8005c9772d897946e66240d0cc95</data>
+      <data key="d11">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d12">1762658498</data>
+      <data key="d13" />
+    </edge>
+    <edge source="WeChat" target="Resume Download">
+      <data key="d7">1.0</data>
+      <data key="d8">WeChat is listed as a supported method related to the Resume Download process.</data>
+      <data key="d9">Event,Support</data>
+      <data key="d10">chunk-aaea8005c9772d897946e66240d0cc95</data>
+      <data key="d11">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d12">1762658502</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Zhaopin App" target="Resume Download">
+      <data key="d7">1.0</data>
+      <data key="d8">The Resume Download event was performed using the Zhaopin App.</data>
+      <data key="d9">Event,Tool</data>
+      <data key="d10">chunk-aaea8005c9772d897946e66240d0cc95</data>
+      <data key="d11">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d12">1762658496</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Page Index 0" target="discarded_8bdb39ee239d4edd224e94eaeb1bb931">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Page Index 0 belongs to discarded_8bdb39ee239d4edd224e94eaeb1bb931</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-5a8546f5022b0a9f43203a6565c649dc</data>
+      <data key="d11">d:/yuki/LightRAG/hire_document\0b51280804da4b20bfc97b518cdcfa40.pdf</data>
+      <data key="d12">1762658761</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Discarded Content" target="Bounding Box">
+      <data key="d7">1.0</data>
+      <data key="d8">The discarded content has a specific location defined by its bounding box coordinates.</data>
+      <data key="d9">spatial location</data>
+      <data key="d10">chunk-f66bfb9283d8f00ff346a99b9a0f998d</data>
+      <data key="d11">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d12">1762658505</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Discarded Content" target="Page 1">
+      <data key="d7">1.0</data>
+      <data key="d8">The discarded content is located on page 1 of the document.</data>
+      <data key="d9">document structure</data>
+      <data key="d10">chunk-f66bfb9283d8f00ff346a99b9a0f998d</data>
+      <data key="d11">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d12">1762658506</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Discarded Content" target="广告设计">
+      <data key="d7">1.0</data>
+      <data key="d8">The discarded content contains the term "广告设计".</data>
+      <data key="d9">categorization,containment</data>
+      <data key="d10">chunk-f66bfb9283d8f00ff346a99b9a0f998d</data>
+      <data key="d11">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d12">1762658509</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Discarded Content" target="广告营销">
+      <data key="d7">1.0</data>
+      <data key="d8">The discarded content contains the term "广告营销".</data>
+      <data key="d9">categorization,containment</data>
+      <data key="d10">chunk-f66bfb9283d8f00ff346a99b9a0f998d</data>
+      <data key="d11">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d12">1762658511</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Discarded Content" target="广告策划">
+      <data key="d7">1.0</data>
+      <data key="d8">The discarded content contains the term "广告策划".</data>
+      <data key="d9">categorization,containment</data>
+      <data key="d10">chunk-f66bfb9283d8f00ff346a99b9a0f998d</data>
+      <data key="d11">0a0b384ab34d44ab86094891776925fe.pdf</data>
+      <data key="d12">1762658513</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Bounding Box" target="Visual Analysis">
+      <data key="d7">1.0</data>
+      <data key="d8">Visual Analysis outputs a Bounding Box, which defines a specific area within the image.</data>
+      <data key="d9">image region,spatial data</data>
+      <data key="d10">chunk-2486ce00736ec9033245d29f1f2ba3db</data>
+      <data key="d11">0b51280804da4b20bfc97b518cdcfa40.pdf</data>
+      <data key="d12">1762658734</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Bounding Box" target="image_9203f848317d76a002daae0c198f9fc8">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Bounding Box belongs to image_9203f848317d76a002daae0c198f9fc8</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-2486ce00736ec9033245d29f1f2ba3db</data>
+      <data key="d11">d:/yuki/LightRAG/hire_document\0b51280804da4b20bfc97b518cdcfa40.pdf</data>
+      <data key="d12">1762658739</data>
+      <data key="d13" />
+    </edge>
+    <edge source="于欣" target="北京印先行管理咨询有限公司">
+      <data key="d7">1.0</data>
+      <data key="d8">于欣is applying for the Key Account Sales position at北京印先行管理咨询有限公司.</data>
+      <data key="d9">career opportunity,job application</data>
+      <data key="d10">chunk-24e47bfa872fdc7862d9134a6bef2e74</data>
+      <data key="d11">0b51280804da4b20bfc97b518cdcfa40.pdf</data>
+      <data key="d12">1762658650</data>
+      <data key="d13" />
+    </edge>
+    <edge source="于欣" target="天津誉奥商贸有限公司">
+      <data key="d7">1.0</data>
+      <data key="d8">于欣is employed as a Key Account Representative at天津誉奥商贸有限公司.</data>
+      <data key="d9">employment,sales role</data>
+      <data key="d10">chunk-24e47bfa872fdc7862d9134a6bef2e74</data>
+      <data key="d11">0b51280804da4b20bfc97b518cdcfa40.pdf</data>
+      <data key="d12">1762658652</data>
+      <data key="d13" />
+    </edge>
+    <edge source="于欣" target="德荷斯营养科技(北京)有限公司">
+      <data key="d7">1.0</data>
+      <data key="d8">于欣previously worked as a Sales Manager at德荷斯营养科技(北京)有限公司.</data>
+      <data key="d9">past employment,sales management</data>
+      <data key="d10">chunk-24e47bfa872fdc7862d9134a6bef2e74</data>
+      <data key="d11">0b51280804da4b20bfc97b518cdcfa40.pdf</data>
+      <data key="d12">1762658653</data>
+      <data key="d13" />
+    </edge>
+    <edge source="于欣" target="哈尔滨凯腾生物科技有限公司">
+      <data key="d7">1.0</data>
+      <data key="d8">于欣previously worked as a Channel Sales Representative at哈尔滨凯腾生物科技有限公司.</data>
+      <data key="d9">channel sales,past employment</data>
+      <data key="d10">chunk-24e47bfa872fdc7862d9134a6bef2e74</data>
+      <data key="d11">0b51280804da4b20bfc97b518cdcfa40.pdf</data>
+      <data key="d12">1762658654</data>
+      <data key="d13" />
+    </edge>
+    <edge source="于欣" target="黑龙江省经济管理干部学院">
+      <data key="d7">1.0</data>
+      <data key="d8">于欣studied Financial Management at黑龙江省经济管理干部学院.</data>
+      <data key="d9">academic background,education</data>
+      <data key="d10">chunk-24e47bfa872fdc7862d9134a6bef2e74</data>
+      <data key="d11">0b51280804da4b20bfc97b518cdcfa40.pdf</data>
+      <data key="d12">1762658655</data>
+      <data key="d13" />
+    </edge>
+    <edge source="于欣" target="Key Account Sales">
+      <data key="d7">1.0</data>
+      <data key="d8">于欣is seeking a position as a Key Account Sales representative.</data>
+      <data key="d9">job targeting,professional aspiration</data>
+      <data key="d10">chunk-24e47bfa872fdc7862d9134a6bef2e74</data>
+      <data key="d11">0b51280804da4b20bfc97b518cdcfa40.pdf</data>
+      <data key="d12">1762658656</data>
+      <data key="d13" />
+    </edge>
+    <edge source="于欣" target="Sales Team Manager">
+      <data key="d7">1.0</data>
+      <data key="d8">于欣is also targeting a Sales Team Manager position in Beijing.</data>
+      <data key="d9">career goal,job targeting</data>
+      <data key="d10">chunk-24e47bfa872fdc7862d9134a6bef2e74</data>
+      <data key="d11">0b51280804da4b20bfc97b518cdcfa40.pdf</data>
+      <data key="d12">1762658658</data>
+      <data key="d13" />
+    </edge>
+    <edge source="于欣" target="Sales Performance Data">
+      <data key="d7">1.0</data>
+      <data key="d8">于欣achieved significant sales figures, such as monthly sales of various feed products.</data>
+      <data key="d9">achievement,quantifiable results</data>
+      <data key="d10">chunk-24e47bfa872fdc7862d9134a6bef2e74</data>
+      <data key="d11">0b51280804da4b20bfc97b518cdcfa40.pdf</data>
+      <data key="d12">1762658660</data>
+      <data key="d13" />
+    </edge>
+    <edge source="于欣" target="北京">
+      <data key="d7">1.0</data>
+      <data key="d8">于欣currently resides in Beijing.</data>
+      <data key="d9">location,residence</data>
+      <data key="d10">chunk-24e47bfa872fdc7862d9134a6bef2e74</data>
+      <data key="d11">0b51280804da4b20bfc97b518cdcfa40.pdf</data>
+      <data key="d12">1762658662</data>
+      <data key="d13" />
+    </edge>
+    <edge source="于欣" target="Office Director">
+      <data key="d7">1.0</data>
+      <data key="d8">于欣has previously held the role of Office Director.</data>
+      <data key="d9">management experience,past role</data>
+      <data key="d10">chunk-24e47bfa872fdc7862d9134a6bef2e74</data>
+      <data key="d11">0b51280804da4b20bfc97b518cdcfa40.pdf</data>
+      <data key="d12">1762658663</data>
+      <data key="d13" />
+    </edge>
+    <edge source="天津誉奥商贸有限公司" target="全脂奶粉">
+      <data key="d7">1.0</data>
+      <data key="d8">天津誉奥商贸有限公司sells全脂奶粉through于欣.</data>
+      <data key="d9">business operation,product sales</data>
+      <data key="d10">chunk-24e47bfa872fdc7862d9134a6bef2e74</data>
+      <data key="d11">0b51280804da4b20bfc97b518cdcfa40.pdf</data>
+      <data key="d12">1762658655</data>
+      <data key="d13" />
+    </edge>
+    <edge source="天津誉奥商贸有限公司" target="脱脂奶粉">
+      <data key="d7">1.0</data>
+      <data key="d8">天津誉奥商贸有限公司sells脱脂奶粉through于欣.</data>
+      <data key="d9">business operation,product sales</data>
+      <data key="d10">chunk-24e47bfa872fdc7862d9134a6bef2e74</data>
+      <data key="d11">0b51280804da4b20bfc97b518cdcfa40.pdf</data>
+      <data key="d12">1762658657</data>
+      <data key="d13" />
+    </edge>
+    <edge source="天津誉奥商贸有限公司" target="乳糖">
+      <data key="d7">1.0</data>
+      <data key="d8">天津誉奥商贸有限公司sells乳糖through于欣.</data>
+      <data key="d9">business operation,product sales</data>
+      <data key="d10">chunk-24e47bfa872fdc7862d9134a6bef2e74</data>
+      <data key="d11">0b51280804da4b20bfc97b518cdcfa40.pdf</data>
+      <data key="d12">1762658659</data>
+      <data key="d13" />
+    </edge>
+    <edge source="天津誉奥商贸有限公司" target="Key Account Sales">
+      <data key="d7">1.0</data>
+      <data key="d8">天津誉奥商贸有限公司employs于欣in a Key Account Sales role for bulk raw materials.</data>
+      <data key="d9">business operation,sales focus</data>
+      <data key="d10">chunk-24e47bfa872fdc7862d9134a6bef2e74</data>
+      <data key="d11">0b51280804da4b20bfc97b518cdcfa40.pdf</data>
+      <data key="d12">1762658660</data>
+      <data key="d13" />
+    </edge>
+    <edge source="天津誉奥商贸有限公司" target="乳清粉">
+      <data key="d7">1.0</data>
+      <data key="d8">天津誉奥商贸有限公司sells乳清粉through于欣.</data>
+      <data key="d9">business operation,product sales</data>
+      <data key="d10">chunk-24e47bfa872fdc7862d9134a6bef2e74</data>
+      <data key="d11">0b51280804da4b20bfc97b518cdcfa40.pdf</data>
+      <data key="d12">1762658661</data>
+      <data key="d13" />
+    </edge>
+    <edge source="天津誉奥商贸有限公司" target="可可粉">
+      <data key="d7">1.0</data>
+      <data key="d8">天津誉奥商贸有限公司sells可可粉through于欣.</data>
+      <data key="d9">business operation,product sales</data>
+      <data key="d10">chunk-24e47bfa872fdc7862d9134a6bef2e74</data>
+      <data key="d11">0b51280804da4b20bfc97b518cdcfa40.pdf</data>
+      <data key="d12">1762658664</data>
+      <data key="d13" />
+    </edge>
+    <edge source="天津誉奥商贸有限公司" target="油脂">
+      <data key="d7">1.0</data>
+      <data key="d8">天津誉奥商贸有限公司sells油脂through于欣.</data>
+      <data key="d9">business operation,product sales</data>
+      <data key="d10">chunk-24e47bfa872fdc7862d9134a6bef2e74</data>
+      <data key="d11">0b51280804da4b20bfc97b518cdcfa40.pdf</data>
+      <data key="d12">1762658665</data>
+      <data key="d13" />
+    </edge>
+    <edge source="天津誉奥商贸有限公司" target="香精">
+      <data key="d7">1.0</data>
+      <data key="d8">天津誉奥商贸有限公司sells香精through于欣.</data>
+      <data key="d9">business operation,product sales</data>
+      <data key="d10">chunk-24e47bfa872fdc7862d9134a6bef2e74</data>
+      <data key="d11">0b51280804da4b20bfc97b518cdcfa40.pdf</data>
+      <data key="d12">1762658666</data>
+      <data key="d13" />
+    </edge>
+    <edge source="德荷斯营养科技(北京)有限公司" target="Sales Performance Data">
+      <data key="d7">1.0</data>
+      <data key="d8">德荷斯营养科技(北京)有限公司is the company where于欣achieved specific sales performance data.</data>
+      <data key="d9">business performance,sales results</data>
+      <data key="d10">chunk-24e47bfa872fdc7862d9134a6bef2e74</data>
+      <data key="d11">0b51280804da4b20bfc97b518cdcfa40.pdf</data>
+      <data key="d12">1762658662</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Channel Sales" target="discarded_3aa9ab98ba0ca993f6410419faf83595">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Channel Sales belongs to discarded_3aa9ab98ba0ca993f6410419faf83595</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-f83ea90fdf82e83495ca08290eb06337</data>
+      <data key="d11">d:/yuki/LightRAG/hire_document\0b51280804da4b20bfc97b518cdcfa40.pdf</data>
+      <data key="d12">1762658766</data>
+      <data key="d13" />
+    </edge>
+    <edge source="image_9203f848317d76a002daae0c198f9fc8" target="Image Path">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Image Path belongs to image_9203f848317d76a002daae0c198f9fc8</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-2486ce00736ec9033245d29f1f2ba3db</data>
+      <data key="d11">d:/yuki/LightRAG/hire_document\0b51280804da4b20bfc97b518cdcfa40.pdf</data>
+      <data key="d12">1762658736</data>
+      <data key="d13" />
+    </edge>
+    <edge source="image_9203f848317d76a002daae0c198f9fc8" target="Captions">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Captions belongs to image_9203f848317d76a002daae0c198f9fc8</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-2486ce00736ec9033245d29f1f2ba3db</data>
+      <data key="d11">d:/yuki/LightRAG/hire_document\0b51280804da4b20bfc97b518cdcfa40.pdf</data>
+      <data key="d12">1762658738</data>
+      <data key="d13" />
+    </edge>
+    <edge source="image_9203f848317d76a002daae0c198f9fc8" target="D:\yuki\LightRAG\output\0b51280804da4b20bfc97b518cdcfa40\auto\images\94c95c9051c520f591ff90e1ad6e73c0640386ba5f725f23245d867c0ac37851.jpg">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity D:\yuki\LightRAG\output\0b51280804da4b20bfc97b518cdcfa40\auto\images\94c95c9051c520f591ff90e1ad6e73c0640386ba5f725f23245d867c0ac37851.jpg belongs to image_9203f848317d76a002daae0c198f9fc8</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-2486ce00736ec9033245d29f1f2ba3db</data>
+      <data key="d11">d:/yuki/LightRAG/hire_document\0b51280804da4b20bfc97b518cdcfa40.pdf</data>
+      <data key="d12">1762658741</data>
+      <data key="d13" />
+    </edge>
+    <edge source="image_9203f848317d76a002daae0c198f9fc8" target="Footnotes">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Footnotes belongs to image_9203f848317d76a002daae0c198f9fc8</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-2486ce00736ec9033245d29f1f2ba3db</data>
+      <data key="d11">d:/yuki/LightRAG/hire_document\0b51280804da4b20bfc97b518cdcfa40.pdf</data>
+      <data key="d12">1762658744</data>
+      <data key="d13" />
+    </edge>
+    <edge source="image_9203f848317d76a002daae0c198f9fc8" target="Visual Analysis">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Visual Analysis belongs to image_9203f848317d76a002daae0c198f9fc8</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-2486ce00736ec9033245d29f1f2ba3db</data>
+      <data key="d11">d:/yuki/LightRAG/hire_document\0b51280804da4b20bfc97b518cdcfa40.pdf</data>
+      <data key="d12">1762658745</data>
+      <data key="d13" />
+    </edge>
+    <edge source="image_9203f848317d76a002daae0c198f9fc8" target="Image Content Analysis">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Image Content Analysis belongs to image_9203f848317d76a002daae0c198f9fc8</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-2486ce00736ec9033245d29f1f2ba3db</data>
+      <data key="d11">d:/yuki/LightRAG/hire_document\0b51280804da4b20bfc97b518cdcfa40.pdf</data>
+      <data key="d12">1762658749</data>
+      <data key="d13" />
+    </edge>
+    <edge source="discarded_8bdb39ee239d4edd224e94eaeb1bb931" target="智联招聘">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity 智联招聘 belongs to discarded_8bdb39ee239d4edd224e94eaeb1bb931</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-5a8546f5022b0a9f43203a6565c649dc</data>
+      <data key="d11">d:/yuki/LightRAG/hire_document\0b51280804da4b20bfc97b518cdcfa40.pdf</data>
+      <data key="d12">1762658753</data>
+      <data key="d13" />
+    </edge>
+    <edge source="discarded_8bdb39ee239d4edd224e94eaeb1bb931" target="Resume ID: XGcFHJ)eJgcxJ0nZ1NIWo18cxl8EEclt">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Resume ID: XGcFHJ)eJgcxJ0nZ1NIWo18cxl8EEclt belongs to discarded_8bdb39ee239d4edd224e94eaeb1bb931</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-5a8546f5022b0a9f43203a6565c649dc</data>
+      <data key="d11">d:/yuki/LightRAG/hire_document\0b51280804da4b20bfc97b518cdcfa40.pdf</data>
+      <data key="d12">1762658755</data>
+      <data key="d13" />
+    </edge>
+    <edge source="discarded_8bdb39ee239d4edd224e94eaeb1bb931" target="微信">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity 微信 belongs to discarded_8bdb39ee239d4edd224e94eaeb1bb931</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-5a8546f5022b0a9f43203a6565c649dc</data>
+      <data key="d11">d:/yuki/LightRAG/hire_document\0b51280804da4b20bfc97b518cdcfa40.pdf</data>
+      <data key="d12">1762658756</data>
+      <data key="d13" />
+    </edge>
+    <edge source="discarded_8bdb39ee239d4edd224e94eaeb1bb931" target="智联App">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity 智联App belongs to discarded_8bdb39ee239d4edd224e94eaeb1bb931</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-5a8546f5022b0a9f43203a6565c649dc</data>
+      <data key="d11">d:/yuki/LightRAG/hire_document\0b51280804da4b20bfc97b518cdcfa40.pdf</data>
+      <data key="d12">1762658758</data>
+      <data key="d13" />
+    </edge>
+    <edge source="discarded_8bdb39ee239d4edd224e94eaeb1bb931" target="Download Date: 2025-02-19">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Download Date: 2025-02-19 belongs to discarded_8bdb39ee239d4edd224e94eaeb1bb931</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-5a8546f5022b0a9f43203a6565c649dc</data>
+      <data key="d11">d:/yuki/LightRAG/hire_document\0b51280804da4b20bfc97b518cdcfa40.pdf</data>
+      <data key="d12">1762658759</data>
+      <data key="d13" />
+    </edge>
+    <edge source="discarded_8bdb39ee239d4edd224e94eaeb1bb931" target="Bbox Coordinates [53, 45, 937, 108]">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Bbox Coordinates [53, 45, 937, 108] belongs to discarded_8bdb39ee239d4edd224e94eaeb1bb931</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-5a8546f5022b0a9f43203a6565c649dc</data>
+      <data key="d11">d:/yuki/LightRAG/hire_document\0b51280804da4b20bfc97b518cdcfa40.pdf</data>
+      <data key="d12">1762658763</data>
+      <data key="d13" />
+    </edge>
+    <edge source="discarded_3aa9ab98ba0ca993f6410419faf83595" target="Agent Sales">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Agent Sales belongs to discarded_3aa9ab98ba0ca993f6410419faf83595</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-f83ea90fdf82e83495ca08290eb06337</data>
+      <data key="d11">d:/yuki/LightRAG/hire_document\0b51280804da4b20bfc97b518cdcfa40.pdf</data>
+      <data key="d12">1762658768</data>
+      <data key="d13" />
+    </edge>
+    <edge source="discarded_3aa9ab98ba0ca993f6410419faf83595" target="Bbox">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Bbox belongs to discarded_3aa9ab98ba0ca993f6410419faf83595</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-f83ea90fdf82e83495ca08290eb06337</data>
+      <data key="d11">d:/yuki/LightRAG/hire_document\0b51280804da4b20bfc97b518cdcfa40.pdf</data>
+      <data key="d12">1762658771</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Image Content Analysis" target="Image Path">
+      <data key="d7">1.0</data>
+      <data key="d8">Image Content Analysis includes the Image Path as a key piece of metadata for the image being analyzed.</data>
+      <data key="d9">file location,metadata</data>
+      <data key="d10">chunk-2486ce00736ec9033245d29f1f2ba3db</data>
+      <data key="d11">0b51280804da4b20bfc97b518cdcfa40.pdf</data>
+      <data key="d12">1762658733</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Image Content Analysis" target="Captions">
+      <data key="d7">1.0</data>
+      <data key="d8">Image Content Analysis involves checking for Captions, which were found to be None in this instance.</data>
+      <data key="d9">content metadata,textual description</data>
+      <data key="d10">chunk-2486ce00736ec9033245d29f1f2ba3db</data>
+      <data key="d11">0b51280804da4b20bfc97b518cdcfa40.pdf</data>
+      <data key="d12">1762658736</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Image Content Analysis" target="Footnotes">
+      <data key="d7">1.0</data>
+      <data key="d8">Image Content Analysis involves checking for Footnotes, which were found to be None in this instance.</data>
+      <data key="d9">additional information,content metadata</data>
+      <data key="d10">chunk-2486ce00736ec9033245d29f1f2ba3db</data>
+      <data key="d11">0b51280804da4b20bfc97b518cdcfa40.pdf</data>
+      <data key="d12">1762658737</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Image Content Analysis" target="Visual Analysis">
+      <data key="d7">1.0</data>
+      <data key="d8">Image Content Analysis utilizes Visual Analysis to provide detailed information about the image.</data>
+      <data key="d9">analysis method,structured data</data>
+      <data key="d10">chunk-2486ce00736ec9033245d29f1f2ba3db</data>
+      <data key="d11">0b51280804da4b20bfc97b518cdcfa40.pdf</data>
+      <data key="d12">1762658747</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Visual Analysis" target="D:\yuki\LightRAG\output\0b51280804da4b20bfc97b518cdcfa40\auto\images\94c95c9051c520f591ff90e1ad6e73c0640386ba5f725f23245d867c0ac37851.jpg">
+      <data key="d7">1.0</data>
+      <data key="d8">Visual Analysis is performed on this specific image file.</data>
+      <data key="d9">file analysis,image processing</data>
+      <data key="d10">chunk-2486ce00736ec9033245d29f1f2ba3db</data>
+      <data key="d11">0b51280804da4b20bfc97b518cdcfa40.pdf</data>
+      <data key="d12">1762658735</data>
+      <data key="d13" />
+    </edge>
+  </graph>
+</graphml>

@@ -1,0 +1,392 @@
+{
+  "doc-40fe4e82a43e7a7aacd257788276c15b": {
+    "relation_pairs": [
+      [
+        "Content",
+        "Discarded Content Analysis"
+      ],
+      [
+        "Discarded Content Analysis",
+        "discarded_e9452068128ce0301ff5be4b9509114d"
+      ],
+      [
+        "Page Index 0",
+        "discarded_e9452068128ce0301ff5be4b9509114d"
+      ],
+      [
+        "Discarded Content",
+        "discarded_f7baf063c8f3ecfad1aa7f7ee8ed4b8b"
+      ],
+      [
+        "BBox",
+        "Content"
+      ],
+      [
+        "discarded_f7baf063c8f3ecfad1aa7f7ee8ed4b8b",
+        "广告营销"
+      ],
+      [
+        "Content",
+        "Text"
+      ],
+      [
+        "Content",
+        "Type"
+      ],
+      [
+        "Bbox [55, 32, 946, 108]",
+        "discarded_e9452068128ce0301ff5be4b9509114d"
+      ],
+      [
+        "Discarded Content",
+        "广告策划"
+      ],
+      [
+        "Discarded Content Analysis",
+        "discarded_cfba7a3eac06752e9f3de9fb46d3a2d5"
+      ],
+      [
+        "Discarded Content",
+        "广告设计"
+      ],
+      [
+        "Analysis",
+        "Discarded Content"
+      ],
+      [
+        "Content",
+        "Page Index"
+      ],
+      [
+        "Resume Download",
+        "Zhaopin App"
+      ],
+      [
+        "Resume ID: Ed7aL61Bw6FUMqoGel0(O) f2RGnoXMvV",
+        "discarded_e9452068128ce0301ff5be4b9509114d"
+      ],
+      [
+        "Analysis",
+        "discarded_cfba7a3eac06752e9f3de9fb46d3a2d5"
+      ],
+      [
+        "WeChat",
+        "discarded_e9452068128ce0301ff5be4b9509114d"
+      ],
+      [
+        "Resume Download",
+        "discarded_e9452068128ce0301ff5be4b9509114d"
+      ],
+      [
+        "Type",
+        "discarded_cfba7a3eac06752e9f3de9fb46d3a2d5"
+      ],
+      [
+        "Discarded Content Analysis",
+        "Resume ID: Ed7aL61Bw6FUMqoGel0(O) f2RGnoXMvV"
+      ],
+      [
+        "Analysis",
+        "Page 1"
+      ],
+      [
+        "Bounding Box",
+        "Discarded Content"
+      ],
+      [
+        "Analysis",
+        "Content"
+      ],
+      [
+        "Analysis",
+        "Bounding Box"
+      ],
+      [
+        "Page Index",
+        "discarded_cfba7a3eac06752e9f3de9fb46d3a2d5"
+      ],
+      [
+        "discarded_f7baf063c8f3ecfad1aa7f7ee8ed4b8b",
+        "广告策划"
+      ],
+      [
+        "discarded_f7baf063c8f3ecfad1aa7f7ee8ed4b8b",
+        "广告设计"
+      ],
+      [
+        "Discarded Content Analysis",
+        "Page Index 0"
+      ],
+      [
+        "Page 1",
+        "discarded_f7baf063c8f3ecfad1aa7f7ee8ed4b8b"
+      ],
+      [
+        "Analysis",
+        "discarded_f7baf063c8f3ecfad1aa7f7ee8ed4b8b"
+      ],
+      [
+        "Content",
+        "discarded_cfba7a3eac06752e9f3de9fb46d3a2d5"
+      ],
+      [
+        "Bbox [55, 32, 946, 108]",
+        "Discarded Content Analysis"
+      ],
+      [
+        "Discarded Content",
+        "广告营销"
+      ],
+      [
+        "Text",
+        "discarded_cfba7a3eac06752e9f3de9fb46d3a2d5"
+      ],
+      [
+        "Discarded Content",
+        "Page 1"
+      ],
+      [
+        "Discarded Content Analysis",
+        "Zhaopin"
+      ],
+      [
+        "Resume Download",
+        "Resume ID: Ed7aL61Bw6FUMqoGel0(O) f2RGnoXMvV"
+      ],
+      [
+        "Analysis",
+        "Type"
+      ],
+      [
+        "Bounding Box",
+        "discarded_f7baf063c8f3ecfad1aa7f7ee8ed4b8b"
+      ],
+      [
+        "Resume Download",
+        "WeChat"
+      ],
+      [
+        "BBox",
+        "discarded_cfba7a3eac06752e9f3de9fb46d3a2d5"
+      ],
+      [
+        "Zhaopin App",
+        "discarded_e9452068128ce0301ff5be4b9509114d"
+      ],
+      [
+        "Zhaopin",
+        "discarded_e9452068128ce0301ff5be4b9509114d"
+      ]
+    ],
+    "count": 44,
+    "update_time": 1762658520,
+    "_id": "doc-40fe4e82a43e7a7aacd257788276c15b"
+  },
+  "doc-8f1111450c3a53ec7fab71d07388ff4d": {
+    "relation_pairs": [
+      [
+        "Content",
+        "Discarded Content Analysis"
+      ],
+      [
+        "Content",
+        "discarded_8bdb39ee239d4edd224e94eaeb1bb931"
+      ],
+      [
+        "Content",
+        "discarded_f4aa7e291a900a7ee78e5f5aa9e77ab6"
+      ],
+      [
+        "Channel Sales",
+        "Content"
+      ],
+      [
+        "Bbox Coordinates [53, 45, 937, 108]",
+        "Content"
+      ],
+      [
+        "Image Content Analysis",
+        "image_9203f848317d76a002daae0c198f9fc8"
+      ],
+      [
+        "discarded_8bdb39ee239d4edd224e94eaeb1bb931",
+        "智联招聘"
+      ],
+      [
+        "Visual Analysis",
+        "image_9203f848317d76a002daae0c198f9fc8"
+      ],
+      [
+        "Footnotes",
+        "Image Content Analysis"
+      ],
+      [
+        "Agent Sales",
+        "discarded_3aa9ab98ba0ca993f6410419faf83595"
+      ],
+      [
+        "Content",
+        "微信"
+      ],
+      [
+        "Content",
+        "Resume ID: XGcFHJ)eJgcxJ0nZ1NIWo18cxl8EEclt"
+      ],
+      [
+        "Bbox",
+        "discarded_3aa9ab98ba0ca993f6410419faf83595"
+      ],
+      [
+        "Discarded Content Analysis",
+        "discarded_3aa9ab98ba0ca993f6410419faf83595"
+      ],
+      [
+        "Agent Sales",
+        "Content"
+      ],
+      [
+        "Captions",
+        "image_9203f848317d76a002daae0c198f9fc8"
+      ],
+      [
+        "Content",
+        "Page Index"
+      ],
+      [
+        "Bbox",
+        "Content"
+      ],
+      [
+        "Image Content Analysis",
+        "Visual Analysis"
+      ],
+      [
+        "Bbox Coordinates [53, 45, 937, 108]",
+        "discarded_8bdb39ee239d4edd224e94eaeb1bb931"
+      ],
+      [
+        "Bounding Box",
+        "image_9203f848317d76a002daae0c198f9fc8"
+      ],
+      [
+        "discarded_8bdb39ee239d4edd224e94eaeb1bb931",
+        "智联App"
+      ],
+      [
+        "Analysis",
+        "discarded_3aa9ab98ba0ca993f6410419faf83595"
+      ],
+      [
+        "Resume ID: XGcFHJ)eJgcxJ0nZ1NIWo18cxl8EEclt",
+        "discarded_8bdb39ee239d4edd224e94eaeb1bb931"
+      ],
+      [
+        "Image Path",
+        "image_9203f848317d76a002daae0c198f9fc8"
+      ],
+      [
+        "Analysis",
+        "Content"
+      ],
+      [
+        "D:\\yuki\\LightRAG\\output\\0b51280804da4b20bfc97b518cdcfa40\\auto\\images\\94c95c9051c520f591ff90e1ad6e73c0640386ba5f725f23245d867c0ac37851.jpg",
+        "image_9203f848317d76a002daae0c198f9fc8"
+      ],
+      [
+        "Content",
+        "Page Index 0"
+      ],
+      [
+        "Analysis",
+        "Bbox Coordinates [53, 45, 937, 108]"
+      ],
+      [
+        "Download Date: 2025-02-19",
+        "discarded_8bdb39ee239d4edd224e94eaeb1bb931"
+      ],
+      [
+        "discarded_8bdb39ee239d4edd224e94eaeb1bb931",
+        "微信"
+      ],
+      [
+        "Discarded Content Analysis",
+        "discarded_8bdb39ee239d4edd224e94eaeb1bb931"
+      ],
+      [
+        "Page Index 0",
+        "discarded_8bdb39ee239d4edd224e94eaeb1bb931"
+      ],
+      [
+        "Captions",
+        "Image Content Analysis"
+      ],
+      [
+        "Bounding Box",
+        "Visual Analysis"
+      ],
+      [
+        "Content",
+        "智联招聘"
+      ],
+      [
+        "Discarded Content Analysis",
+        "discarded_f4aa7e291a900a7ee78e5f5aa9e77ab6"
+      ],
+      [
+        "Analysis",
+        "Page Index 0"
+      ],
+      [
+        "Content",
+        "discarded_3aa9ab98ba0ca993f6410419faf83595"
+      ],
+      [
+        "Page Index",
+        "image_9203f848317d76a002daae0c198f9fc8"
+      ],
+      [
+        "Analysis",
+        "discarded_8bdb39ee239d4edd224e94eaeb1bb931"
+      ],
+      [
+        "Footnotes",
+        "image_9203f848317d76a002daae0c198f9fc8"
+      ],
+      [
+        "Analysis",
+        "discarded_f4aa7e291a900a7ee78e5f5aa9e77ab6"
+      ],
+      [
+        "Image Content Analysis",
+        "Image Path"
+      ],
+      [
+        "D:\\yuki\\LightRAG\\output\\0b51280804da4b20bfc97b518cdcfa40\\auto\\images\\94c95c9051c520f591ff90e1ad6e73c0640386ba5f725f23245d867c0ac37851.jpg",
+        "Visual Analysis"
+      ],
+      [
+        "Channel Sales",
+        "discarded_3aa9ab98ba0ca993f6410419faf83595"
+      ],
+      [
+        "Content",
+        "Download Date: 2025-02-19"
+      ],
+      [
+        "Page Index",
+        "discarded_3aa9ab98ba0ca993f6410419faf83595"
+      ],
+      [
+        "Content",
+        "智联App"
+      ],
+      [
+        "Page Index",
+        "Visual Analysis"
+      ]
+    ],
+    "count": 50,
+    "update_time": 1762658774,
+    "_id": "doc-8f1111450c3a53ec7fab71d07388ff4d"
+  }
+}

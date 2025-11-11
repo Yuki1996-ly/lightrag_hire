@@ -1,0 +1,1 @@
+fixed csv_string_to_list when data contains null

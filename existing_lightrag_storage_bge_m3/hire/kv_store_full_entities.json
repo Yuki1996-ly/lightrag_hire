@@ -1,0 +1,57 @@
+{
+  "doc-40fe4e82a43e7a7aacd257788276c15b": {
+    "entity_names": [
+      "WeChat",
+      "广告设计",
+      "Bbox [55, 32, 946, 108]",
+      "Resume Download",
+      "Page 1",
+      "Discarded Content",
+      "Page Index 0",
+      "广告策划",
+      "Discarded Content Analysis",
+      "Type",
+      "Analysis",
+      "Page Index",
+      "Zhaopin App",
+      "Bounding Box",
+      "Resume ID: Ed7aL61Bw6FUMqoGel0(O) f2RGnoXMvV",
+      "广告营销",
+      "Text",
+      "BBox",
+      "Content",
+      "Zhaopin"
+    ],
+    "count": 20,
+    "update_time": 1762658520,
+    "_id": "doc-40fe4e82a43e7a7aacd257788276c15b"
+  },
+  "doc-8f1111450c3a53ec7fab71d07388ff4d": {
+    "entity_names": [
+      "智联招聘",
+      "Content",
+      "微信",
+      "Agent Sales",
+      "Visual Analysis",
+      "Channel Sales",
+      "智联App",
+      "Page Index 0",
+      "Captions",
+      "Discarded Content Analysis",
+      "Page Index",
+      "Analysis",
+      "Bbox Coordinates [53, 45, 937, 108]",
+      "D:\\yuki\\LightRAG\\output\\0b51280804da4b20bfc97b518cdcfa40\\auto\\images\\94c95c9051c520f591ff90e1ad6e73c0640386ba5f725f23245d867c0ac37851.jpg",
+      "Bounding Box",
+      "Bbox",
+      "Download Date: 2025-02-19",
+      "Image Path",
+      "Image Content Analysis",
+      "Resume ID: XGcFHJ)eJgcxJ0nZ1NIWo18cxl8EEclt",
+      "Footnotes"
+    ],
+    "count": 21,
+    "update_time": 1762658774,
+    "_id": "doc-8f1111450c3a53ec7fab71d07388ff4d"
+  }
+}

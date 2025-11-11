@@ -1,0 +1,916 @@
+{
+  "Ganoderma": {
+    "chunk_ids": [
+      "chunk-7843aef06d0c82abc4641013a7c73c16"
+    ],
+    "count": 1,
+    "create_time": 1762658338,
+    "update_time": 1762658338,
+    "_id": "Ganoderma"
+  },
+  "Qingniu Technology": {
+    "chunk_ids": [
+      "chunk-7843aef06d0c82abc4641013a7c73c16",
+      "chunk-a9ea347ca1eb9d2c7c390bcf9cf1f2b9"
+    ],
+    "count": 2,
+    "create_time": 1762658338,
+    "update_time": 1762658338,
+    "_id": "Qingniu Technology"
+  },
+  "Tsingtao Brewery": {
+    "chunk_ids": [
+      "chunk-7843aef06d0c82abc4641013a7c73c16"
+    ],
+    "count": 1,
+    "create_time": 1762658338,
+    "update_time": 1762658338,
+    "_id": "Tsingtao Brewery"
+  },
+  "Shanghai Bright Food Group": {
+    "chunk_ids": [
+      "chunk-7843aef06d0c82abc4641013a7c73c16",
+      "chunk-a9ea347ca1eb9d2c7c390bcf9cf1f2b9"
+    ],
+    "count": 2,
+    "create_time": 1762658338,
+    "update_time": 1762658338,
+    "_id": "Shanghai Bright Food Group"
+  },
+  "Jiuhutang": {
+    "chunk_ids": [
+      "chunk-7843aef06d0c82abc4641013a7c73c16",
+      "chunk-a9ea347ca1eb9d2c7c390bcf9cf1f2b9"
+    ],
+    "count": 2,
+    "create_time": 1762658338,
+    "update_time": 1762658338,
+    "_id": "Jiuhutang"
+  },
+  "GAC Toyota": {
+    "chunk_ids": [
+      "chunk-7843aef06d0c82abc4641013a7c73c16",
+      "chunk-a9ea347ca1eb9d2c7c390bcf9cf1f2b9"
+    ],
+    "count": 2,
+    "create_time": 1762658338,
+    "update_time": 1762658338,
+    "_id": "GAC Toyota"
+  },
+  "Longwen": {
+    "chunk_ids": [
+      "chunk-7843aef06d0c82abc4641013a7c73c16"
+    ],
+    "count": 1,
+    "create_time": 1762658338,
+    "update_time": 1762658338,
+    "_id": "Longwen"
+  },
+  "An Advertising Company": {
+    "chunk_ids": [
+      "chunk-7843aef06d0c82abc4641013a7c73c16"
+    ],
+    "count": 1,
+    "create_time": 1762658338,
+    "update_time": 1762658338,
+    "_id": "An Advertising Company"
+  },
+  "Qinghe Wucaicheng Mall": {
+    "chunk_ids": [
+      "chunk-7843aef06d0c82abc4641013a7c73c16"
+    ],
+    "count": 1,
+    "create_time": 1762658340,
+    "update_time": 1762658340,
+    "_id": "Qinghe Wucaicheng Mall"
+  },
+  "Beijing Yinhe Changlong Investment Co., Ltd.": {
+    "chunk_ids": [
+      "chunk-7843aef06d0c82abc4641013a7c73c16"
+    ],
+    "count": 1,
+    "create_time": 1762658343,
+    "update_time": 1762658343,
+    "_id": "Beijing Yinhe Changlong Investment Co., Ltd."
+  },
+  "Yitong Jiaye": {
+    "chunk_ids": [
+      "chunk-7843aef06d0c82abc4641013a7c73c16"
+    ],
+    "count": 1,
+    "create_time": 1762658343,
+    "update_time": 1762658343,
+    "_id": "Yitong Jiaye"
+  },
+  "Beijing Vocational College of Science and Technology": {
+    "chunk_ids": [
+      "chunk-7843aef06d0c82abc4641013a7c73c16"
+    ],
+    "count": 1,
+    "create_time": 1762658343,
+    "update_time": 1762658343,
+    "_id": "Beijing Vocational College of Science and Technology"
+  },
+  "Art Design": {
+    "chunk_ids": [
+      "chunk-7843aef06d0c82abc4641013a7c73c16"
+    ],
+    "count": 1,
+    "create_time": 1762658343,
+    "update_time": 1762658343,
+    "_id": "Art Design"
+  },
+  "Graphic Designer": {
+    "chunk_ids": [
+      "chunk-7843aef06d0c82abc4641013a7c73c16"
+    ],
+    "count": 1,
+    "create_time": 1762658343,
+    "update_time": 1762658343,
+    "_id": "Graphic Designer"
+  },
+  "Online Promotional Design": {
+    "chunk_ids": [
+      "chunk-7843aef06d0c82abc4641013a7c73c16"
+    ],
+    "count": 1,
+    "create_time": 1762658343,
+    "update_time": 1762658343,
+    "_id": "Online Promotional Design"
+  },
+  "HTML5": {
+    "chunk_ids": [
+      "chunk-7843aef06d0c82abc4641013a7c73c16"
+    ],
+    "count": 1,
+    "create_time": 1762658343,
+    "update_time": 1762658343,
+    "_id": "HTML5"
+  },
+  "Brand Promotion": {
+    "chunk_ids": [
+      "chunk-7843aef06d0c82abc4641013a7c73c16"
+    ],
+    "count": 1,
+    "create_time": 1762658344,
+    "update_time": 1762658344,
+    "_id": "Brand Promotion"
+  },
+  "Event Design Materials": {
+    "chunk_ids": [
+      "chunk-7843aef06d0c82abc4641013a7c73c16"
+    ],
+    "count": 1,
+    "create_time": 1762658344,
+    "update_time": 1762658344,
+    "_id": "Event Design Materials"
+  },
+  "VI Extension Design": {
+    "chunk_ids": [
+      "chunk-7843aef06d0c82abc4641013a7c73c16"
+    ],
+    "count": 1,
+    "create_time": 1762658345,
+    "update_time": 1762658345,
+    "_id": "VI Extension Design"
+  },
+  "Advertising Production": {
+    "chunk_ids": [
+      "chunk-7843aef06d0c82abc4641013a7c73c16"
+    ],
+    "count": 1,
+    "create_time": 1762658346,
+    "update_time": 1762658346,
+    "_id": "Advertising Production"
+  },
+  "VI System Design": {
+    "chunk_ids": [
+      "chunk-7843aef06d0c82abc4641013a7c73c16"
+    ],
+    "count": 1,
+    "create_time": 1762658346,
+    "update_time": 1762658346,
+    "_id": "VI System Design"
+  },
+  "4A Company": {
+    "chunk_ids": [
+      "chunk-7843aef06d0c82abc4641013a7c73c16"
+    ],
+    "count": 1,
+    "create_time": 1762658346,
+    "update_time": 1762658346,
+    "_id": "4A Company"
+  },
+  "Fast-Moving Consumer Goods": {
+    "chunk_ids": [
+      "chunk-7843aef06d0c82abc4641013a7c73c16"
+    ],
+    "count": 1,
+    "create_time": 1762658346,
+    "update_time": 1762658346,
+    "_id": "Fast-Moving Consumer Goods"
+  },
+  "Finance": {
+    "chunk_ids": [
+      "chunk-7843aef06d0c82abc4641013a7c73c16"
+    ],
+    "count": 1,
+    "create_time": 1762658346,
+    "update_time": 1762658346,
+    "_id": "Finance"
+  },
+  "Event Planning": {
+    "chunk_ids": [
+      "chunk-7843aef06d0c82abc4641013a7c73c16",
+      "chunk-a9ea347ca1eb9d2c7c390bcf9cf1f2b9"
+    ],
+    "count": 2,
+    "create_time": 1762658347,
+    "update_time": 1762658347,
+    "_id": "Event Planning"
+  },
+  "New Media Communication": {
+    "chunk_ids": [
+      "chunk-7843aef06d0c82abc4641013a7c73c16"
+    ],
+    "count": 1,
+    "create_time": 1762658349,
+    "update_time": 1762658349,
+    "_id": "New Media Communication"
+  },
+  "Photoshop": {
+    "chunk_ids": [
+      "chunk-7843aef06d0c82abc4641013a7c73c16"
+    ],
+    "count": 1,
+    "create_time": 1762658349,
+    "update_time": 1762658349,
+    "_id": "Photoshop"
+  },
+  "Illustrator": {
+    "chunk_ids": [
+      "chunk-7843aef06d0c82abc4641013a7c73c16"
+    ],
+    "count": 1,
+    "create_time": 1762658349,
+    "update_time": 1762658349,
+    "_id": "Illustrator"
+  },
+  "English": {
+    "chunk_ids": [
+      "chunk-7843aef06d0c82abc4641013a7c73c16"
+    ],
+    "count": 1,
+    "create_time": 1762658349,
+    "update_time": 1762658349,
+    "_id": "English"
+  },
+  "Ten Years Of Graphic Design Experience": {
+    "chunk_ids": [
+      "chunk-7843aef06d0c82abc4641013a7c73c16"
+    ],
+    "count": 1,
+    "create_time": 1762658349,
+    "update_time": 1762658349,
+    "_id": "Ten Years Of Graphic Design Experience"
+  },
+  "Four Years Of Client-Side Experience": {
+    "chunk_ids": [
+      "chunk-7843aef06d0c82abc4641013a7c73c16"
+    ],
+    "count": 1,
+    "create_time": 1762658349,
+    "update_time": 1762658349,
+    "_id": "Four Years Of Client-Side Experience"
+  },
+  "Zhang Lei": {
+    "chunk_ids": [
+      "chunk-a9ea347ca1eb9d2c7c390bcf9cf1f2b9"
+    ],
+    "count": 1,
+    "create_time": 1762658349,
+    "update_time": 1762658349,
+    "_id": "Zhang Lei"
+  },
+  "Beijing Yanzhou Technology Co., Ltd.": {
+    "chunk_ids": [
+      "chunk-a9ea347ca1eb9d2c7c390bcf9cf1f2b9"
+    ],
+    "count": 1,
+    "create_time": 1762658350,
+    "update_time": 1762658350,
+    "_id": "Beijing Yanzhou Technology Co., Ltd."
+  },
+  "Langfang Aiertai Energy Saving Technology Co., Ltd.": {
+    "chunk_ids": [
+      "chunk-a9ea347ca1eb9d2c7c390bcf9cf1f2b9"
+    ],
+    "count": 1,
+    "create_time": 1762658352,
+    "update_time": 1762658352,
+    "_id": "Langfang Aiertai Energy Saving Technology Co., Ltd."
+  },
+  "Tianjiu Sharing Holding Group Co., Ltd.": {
+    "chunk_ids": [
+      "chunk-a9ea347ca1eb9d2c7c390bcf9cf1f2b9"
+    ],
+    "count": 1,
+    "create_time": 1762658352,
+    "update_time": 1762658352,
+    "_id": "Tianjiu Sharing Holding Group Co., Ltd."
+  },
+  "Beijing Zhongchuang Huasheng Group": {
+    "chunk_ids": [
+      "chunk-a9ea347ca1eb9d2c7c390bcf9cf1f2b9"
+    ],
+    "count": 1,
+    "create_time": 1762658352,
+    "update_time": 1762658352,
+    "_id": "Beijing Zhongchuang Huasheng Group"
+  },
+  "Beijing Weisai De Enterprise Planning Co., Ltd.": {
+    "chunk_ids": [
+      "chunk-a9ea347ca1eb9d2c7c390bcf9cf1f2b9"
+    ],
+    "count": 1,
+    "create_time": 1762658352,
+    "update_time": 1762658352,
+    "_id": "Beijing Weisai De Enterprise Planning Co., Ltd."
+  },
+  "Kudi Advertising Co., Ltd.": {
+    "chunk_ids": [
+      "chunk-a9ea347ca1eb9d2c7c390bcf9cf1f2b9"
+    ],
+    "count": 1,
+    "create_time": 1762658352,
+    "update_time": 1762658352,
+    "_id": "Kudi Advertising Co., Ltd."
+  },
+  "Beijing Century Longwen": {
+    "chunk_ids": [
+      "chunk-a9ea347ca1eb9d2c7c390bcf9cf1f2b9"
+    ],
+    "count": 1,
+    "create_time": 1762658352,
+    "update_time": 1762658352,
+    "_id": "Beijing Century Longwen"
+  },
+  "New Media Operations": {
+    "chunk_ids": [
+      "chunk-a9ea347ca1eb9d2c7c390bcf9cf1f2b9"
+    ],
+    "count": 1,
+    "create_time": 1762658353,
+    "update_time": 1762658353,
+    "_id": "New Media Operations"
+  },
+  "Creative Director": {
+    "chunk_ids": [
+      "chunk-a9ea347ca1eb9d2c7c390bcf9cf1f2b9"
+    ],
+    "count": 1,
+    "create_time": 1762658353,
+    "update_time": 1762658353,
+    "_id": "Creative Director"
+  },
+  "Graphic Design": {
+    "chunk_ids": [
+      "chunk-a9ea347ca1eb9d2c7c390bcf9cf1f2b9"
+    ],
+    "count": 1,
+    "create_time": 1762658356,
+    "update_time": 1762658356,
+    "_id": "Graphic Design"
+  },
+  "Advertising Art Direction": {
+    "chunk_ids": [
+      "chunk-a9ea347ca1eb9d2c7c390bcf9cf1f2b9"
+    ],
+    "count": 1,
+    "create_time": 1762658356,
+    "update_time": 1762658356,
+    "_id": "Advertising Art Direction"
+  },
+  "Langfang": {
+    "chunk_ids": [
+      "chunk-a9ea347ca1eb9d2c7c390bcf9cf1f2b9"
+    ],
+    "count": 1,
+    "create_time": 1762658356,
+    "update_time": 1762658356,
+    "_id": "Langfang"
+  },
+  "Keyuan Road": {
+    "chunk_ids": [
+      "chunk-a9ea347ca1eb9d2c7c390bcf9cf1f2b9"
+    ],
+    "count": 1,
+    "create_time": 1762658356,
+    "update_time": 1762658356,
+    "_id": "Keyuan Road"
+  },
+  "Beijing": {
+    "chunk_ids": [
+      "chunk-a9ea347ca1eb9d2c7c390bcf9cf1f2b9"
+    ],
+    "count": 1,
+    "create_time": 1762658356,
+    "update_time": 1762658356,
+    "_id": "Beijing"
+  },
+  "Personal Studio": {
+    "chunk_ids": [
+      "chunk-a9ea347ca1eb9d2c7c390bcf9cf1f2b9"
+    ],
+    "count": 1,
+    "create_time": 1762658356,
+    "update_time": 1762658356,
+    "_id": "Personal Studio"
+  },
+  "Today's Headlines": {
+    "chunk_ids": [
+      "chunk-a9ea347ca1eb9d2c7c390bcf9cf1f2b9"
+    ],
+    "count": 1,
+    "create_time": 1762658356,
+    "update_time": 1762658356,
+    "_id": "Today's Headlines"
+  },
+  "Douyin": {
+    "chunk_ids": [
+      "chunk-a9ea347ca1eb9d2c7c390bcf9cf1f2b9"
+    ],
+    "count": 1,
+    "create_time": 1762658357,
+    "update_time": 1762658357,
+    "_id": "Douyin"
+  },
+  "WeChat Channels": {
+    "chunk_ids": [
+      "chunk-a9ea347ca1eb9d2c7c390bcf9cf1f2b9"
+    ],
+    "count": 1,
+    "create_time": 1762658357,
+    "update_time": 1762658357,
+    "_id": "WeChat Channels"
+  },
+  "Official Accounts": {
+    "chunk_ids": [
+      "chunk-a9ea347ca1eb9d2c7c390bcf9cf1f2b9"
+    ],
+    "count": 1,
+    "create_time": 1762658359,
+    "update_time": 1762658359,
+    "_id": "Official Accounts"
+  },
+  "Weibo": {
+    "chunk_ids": [
+      "chunk-a9ea347ca1eb9d2c7c390bcf9cf1f2b9"
+    ],
+    "count": 1,
+    "create_time": 1762658359,
+    "update_time": 1762658359,
+    "_id": "Weibo"
+  },
+  "Siyue Hentun": {
+    "chunk_ids": [
+      "chunk-a9ea347ca1eb9d2c7c390bcf9cf1f2b9"
+    ],
+    "count": 1,
+    "create_time": 1762658359,
+    "update_time": 1762658359,
+    "_id": "Siyue Hentun"
+  },
+  "Ai Hui Shou": {
+    "chunk_ids": [
+      "chunk-a9ea347ca1eb9d2c7c390bcf9cf1f2b9"
+    ],
+    "count": 1,
+    "create_time": 1762658359,
+    "update_time": 1762658359,
+    "_id": "Ai Hui Shou"
+  },
+  "Wali Factory": {
+    "chunk_ids": [
+      "chunk-a9ea347ca1eb9d2c7c390bcf9cf1f2b9"
+    ],
+    "count": 1,
+    "create_time": 1762658359,
+    "update_time": 1762658359,
+    "_id": "Wali Factory"
+  },
+  "First Class Cabin": {
+    "chunk_ids": [
+      "chunk-a9ea347ca1eb9d2c7c390bcf9cf1f2b9"
+    ],
+    "count": 1,
+    "create_time": 1762658359,
+    "update_time": 1762658359,
+    "_id": "First Class Cabin"
+  },
+  "Tianchao Shangpin": {
+    "chunk_ids": [
+      "chunk-a9ea347ca1eb9d2c7c390bcf9cf1f2b9"
+    ],
+    "count": 1,
+    "create_time": 1762658360,
+    "update_time": 1762658360,
+    "_id": "Tianchao Shangpin"
+  },
+  "East China Health": {
+    "chunk_ids": [
+      "chunk-a9ea347ca1eb9d2c7c390bcf9cf1f2b9"
+    ],
+    "count": 1,
+    "create_time": 1762658360,
+    "update_time": 1762658360,
+    "_id": "East China Health"
+  },
+  "Seagate Technology": {
+    "chunk_ids": [
+      "chunk-a9ea347ca1eb9d2c7c390bcf9cf1f2b9"
+    ],
+    "count": 1,
+    "create_time": 1762658361,
+    "update_time": 1762658361,
+    "_id": "Seagate Technology"
+  },
+  "F5": {
+    "chunk_ids": [
+      "chunk-a9ea347ca1eb9d2c7c390bcf9cf1f2b9"
+    ],
+    "count": 1,
+    "create_time": 1762658363,
+    "update_time": 1762658363,
+    "_id": "F5"
+  },
+  "Fujifilm": {
+    "chunk_ids": [
+      "chunk-a9ea347ca1eb9d2c7c390bcf9cf1f2b9"
+    ],
+    "count": 1,
+    "create_time": 1762658363,
+    "update_time": 1762658363,
+    "_id": "Fujifilm"
+  },
+  "Jinmailang Liang Bai Kai": {
+    "chunk_ids": [
+      "chunk-a9ea347ca1eb9d2c7c390bcf9cf1f2b9"
+    ],
+    "count": 1,
+    "create_time": 1762658363,
+    "update_time": 1762658363,
+    "_id": "Jinmailang Liang Bai Kai"
+  },
+  "Jinmailang Yi Tong Mian": {
+    "chunk_ids": [
+      "chunk-a9ea347ca1eb9d2c7c390bcf9cf1f2b9"
+    ],
+    "count": 1,
+    "create_time": 1762658363,
+    "update_time": 1762658363,
+    "_id": "Jinmailang Yi Tong Mian"
+  },
+  "Nestle Milk Powder": {
+    "chunk_ids": [
+      "chunk-a9ea347ca1eb9d2c7c390bcf9cf1f2b9"
+    ],
+    "count": 1,
+    "create_time": 1762658363,
+    "update_time": 1762658363,
+    "_id": "Nestle Milk Powder"
+  },
+  "Xiwang Cooking Oil": {
+    "chunk_ids": [
+      "chunk-a9ea347ca1eb9d2c7c390bcf9cf1f2b9"
+    ],
+    "count": 1,
+    "create_time": 1762658363,
+    "update_time": 1762658363,
+    "_id": "Xiwang Cooking Oil"
+  },
+  "For Example World": {
+    "chunk_ids": [
+      "chunk-a9ea347ca1eb9d2c7c390bcf9cf1f2b9"
+    ],
+    "count": 1,
+    "create_time": 1762658364,
+    "update_time": 1762658364,
+    "_id": "For Example World"
+  },
+  "Nestle National Roadshow": {
+    "chunk_ids": [
+      "chunk-a9ea347ca1eb9d2c7c390bcf9cf1f2b9"
+    ],
+    "count": 1,
+    "create_time": 1762658364,
+    "update_time": 1762658364,
+    "_id": "Nestle National Roadshow"
+  },
+  "Jiaduobao": {
+    "chunk_ids": [
+      "chunk-a9ea347ca1eb9d2c7c390bcf9cf1f2b9"
+    ],
+    "count": 1,
+    "create_time": 1762658365,
+    "update_time": 1762658365,
+    "_id": "Jiaduobao"
+  },
+  "Tsingtao Beer": {
+    "chunk_ids": [
+      "chunk-a9ea347ca1eb9d2c7c390bcf9cf1f2b9"
+    ],
+    "count": 1,
+    "create_time": 1762658365,
+    "update_time": 1762658365,
+    "_id": "Tsingtao Beer"
+  },
+  "VIS": {
+    "chunk_ids": [
+      "chunk-a9ea347ca1eb9d2c7c390bcf9cf1f2b9"
+    ],
+    "count": 1,
+    "create_time": 1762658367,
+    "update_time": 1762658367,
+    "_id": "VIS"
+  },
+  "Content Strategy": {
+    "chunk_ids": [
+      "chunk-a9ea347ca1eb9d2c7c390bcf9cf1f2b9"
+    ],
+    "count": 1,
+    "create_time": 1762658367,
+    "update_time": 1762658367,
+    "_id": "Content Strategy"
+  },
+  "Brand Image Design": {
+    "chunk_ids": [
+      "chunk-a9ea347ca1eb9d2c7c390bcf9cf1f2b9"
+    ],
+    "count": 1,
+    "create_time": 1762658367,
+    "update_time": 1762658367,
+    "_id": "Brand Image Design"
+  },
+  "Project Design Positioning": {
+    "chunk_ids": [
+      "chunk-a9ea347ca1eb9d2c7c390bcf9cf1f2b9"
+    ],
+    "count": 1,
+    "create_time": 1762658367,
+    "update_time": 1762658367,
+    "_id": "Project Design Positioning"
+  },
+  "HTML5 Development": {
+    "chunk_ids": [
+      "chunk-a9ea347ca1eb9d2c7c390bcf9cf1f2b9"
+    ],
+    "count": 1,
+    "create_time": 1762658367,
+    "update_time": 1762658367,
+    "_id": "HTML5 Development"
+  },
+  "Brand Marketing": {
+    "chunk_ids": [
+      "chunk-7843aef06d0c82abc4641013a7c73c16"
+    ],
+    "count": 1,
+    "create_time": 1762658392,
+    "update_time": 1762658392,
+    "_id": "Brand Marketing"
+  },
+  "于欣": {
+    "chunk_ids": [
+      "chunk-24e47bfa872fdc7862d9134a6bef2e74"
+    ],
+    "count": 1,
+    "create_time": 1762658638,
+    "update_time": 1762658638,
+    "_id": "于欣"
+  },
+  "北京印先行管理咨询有限公司": {
+    "chunk_ids": [
+      "chunk-24e47bfa872fdc7862d9134a6bef2e74"
+    ],
+    "count": 1,
+    "create_time": 1762658638,
+    "update_time": 1762658638,
+    "_id": "北京印先行管理咨询有限公司"
+  },
+  "神州数码厦": {
+    "chunk_ids": [
+      "chunk-24e47bfa872fdc7862d9134a6bef2e74"
+    ],
+    "count": 1,
+    "create_time": 1762658638,
+    "update_time": 1762658638,
+    "_id": "神州数码厦"
+  },
+  "天津誉奥商贸有限公司": {
+    "chunk_ids": [
+      "chunk-24e47bfa872fdc7862d9134a6bef2e74"
+    ],
+    "count": 1,
+    "create_time": 1762658638,
+    "update_time": 1762658638,
+    "_id": "天津誉奥商贸有限公司"
+  },
+  "德荷斯营养科技(北京)有限公司": {
+    "chunk_ids": [
+      "chunk-24e47bfa872fdc7862d9134a6bef2e74"
+    ],
+    "count": 1,
+    "create_time": 1762658638,
+    "update_time": 1762658638,
+    "_id": "德荷斯营养科技(北京)有限公司"
+  },
+  "哈尔滨凯腾生物科技有限公司": {
+    "chunk_ids": [
+      "chunk-24e47bfa872fdc7862d9134a6bef2e74"
+    ],
+    "count": 1,
+    "create_time": 1762658638,
+    "update_time": 1762658638,
+    "_id": "哈尔滨凯腾生物科技有限公司"
+  },
+  "黑龙江省经济管理干部学院": {
+    "chunk_ids": [
+      "chunk-24e47bfa872fdc7862d9134a6bef2e74"
+    ],
+    "count": 1,
+    "create_time": 1762658638,
+    "update_time": 1762658638,
+    "_id": "黑龙江省经济管理干部学院"
+  },
+  "Key Account Sales": {
+    "chunk_ids": [
+      "chunk-24e47bfa872fdc7862d9134a6bef2e74"
+    ],
+    "count": 1,
+    "create_time": 1762658638,
+    "update_time": 1762658638,
+    "_id": "Key Account Sales"
+  },
+  "Sales Team Manager": {
+    "chunk_ids": [
+      "chunk-24e47bfa872fdc7862d9134a6bef2e74"
+    ],
+    "count": 1,
+    "create_time": 1762658639,
+    "update_time": 1762658639,
+    "_id": "Sales Team Manager"
+  },
+  "Channel Sales": {
+    "chunk_ids": [
+      "chunk-24e47bfa872fdc7862d9134a6bef2e74"
+    ],
+    "count": 1,
+    "create_time": 1762658642,
+    "update_time": 1762658642,
+    "_id": "Channel Sales"
+  },
+  "Financial Management": {
+    "chunk_ids": [
+      "chunk-24e47bfa872fdc7862d9134a6bef2e74"
+    ],
+    "count": 1,
+    "create_time": 1762658642,
+    "update_time": 1762658642,
+    "_id": "Financial Management"
+  },
+  "Sales Performance Data": {
+    "chunk_ids": [
+      "chunk-24e47bfa872fdc7862d9134a6bef2e74"
+    ],
+    "count": 1,
+    "create_time": 1762658642,
+    "update_time": 1762658642,
+    "_id": "Sales Performance Data"
+  },
+  "北京": {
+    "chunk_ids": [
+      "chunk-24e47bfa872fdc7862d9134a6bef2e74"
+    ],
+    "count": 1,
+    "create_time": 1762658642,
+    "update_time": 1762658642,
+    "_id": "北京"
+  },
+  "全脂奶粉": {
+    "chunk_ids": [
+      "chunk-24e47bfa872fdc7862d9134a6bef2e74"
+    ],
+    "count": 1,
+    "create_time": 1762658642,
+    "update_time": 1762658642,
+    "_id": "全脂奶粉"
+  },
+  "脱脂奶粉": {
+    "chunk_ids": [
+      "chunk-24e47bfa872fdc7862d9134a6bef2e74"
+    ],
+    "count": 1,
+    "create_time": 1762658642,
+    "update_time": 1762658642,
+    "_id": "脱脂奶粉"
+  },
+  "乳糖": {
+    "chunk_ids": [
+      "chunk-24e47bfa872fdc7862d9134a6bef2e74"
+    ],
+    "count": 1,
+    "create_time": 1762658642,
+    "update_time": 1762658642,
+    "_id": "乳糖"
+  },
+  "乳清粉": {
+    "chunk_ids": [
+      "chunk-24e47bfa872fdc7862d9134a6bef2e74"
+    ],
+    "count": 1,
+    "create_time": 1762658643,
+    "update_time": 1762658643,
+    "_id": "乳清粉"
+  },
+  "可可粉": {
+    "chunk_ids": [
+      "chunk-24e47bfa872fdc7862d9134a6bef2e74"
+    ],
+    "count": 1,
+    "create_time": 1762658646,
+    "update_time": 1762658646,
+    "_id": "可可粉"
+  },
+  "油脂": {
+    "chunk_ids": [
+      "chunk-24e47bfa872fdc7862d9134a6bef2e74"
+    ],
+    "count": 1,
+    "create_time": 1762658646,
+    "update_time": 1762658646,
+    "_id": "油脂"
+  },
+  "香精": {
+    "chunk_ids": [
+      "chunk-24e47bfa872fdc7862d9134a6bef2e74"
+    ],
+    "count": 1,
+    "create_time": 1762658646,
+    "update_time": 1762658646,
+    "_id": "香精"
+  },
+  "巧克力生产企业": {
+    "chunk_ids": [
+      "chunk-24e47bfa872fdc7862d9134a6bef2e74"
+    ],
+    "count": 1,
+    "create_time": 1762658646,
+    "update_time": 1762658646,
+    "_id": "巧克力生产企业"
+  },
+  "冰淇淋生产企业": {
+    "chunk_ids": [
+      "chunk-24e47bfa872fdc7862d9134a6bef2e74"
+    ],
+    "count": 1,
+    "create_time": 1762658646,
+    "update_time": 1762658646,
+    "_id": "冰淇淋生产企业"
+  },
+  "烘焙生产企业": {
+    "chunk_ids": [
+      "chunk-24e47bfa872fdc7862d9134a6bef2e74"
+    ],
+    "count": 1,
+    "create_time": 1762658646,
+    "update_time": 1762658646,
+    "_id": "烘焙生产企业"
+  },
+  "饲料生产企业": {
+    "chunk_ids": [
+      "chunk-24e47bfa872fdc7862d9134a6bef2e74"
+    ],
+    "count": 1,
+    "create_time": 1762658646,
+    "update_time": 1762658646,
+    "_id": "饲料生产企业"
+  },
+  "饲料添加剂": {
+    "chunk_ids": [
+      "chunk-24e47bfa872fdc7862d9134a6bef2e74"
+    ],
+    "count": 1,
+    "create_time": 1762658646,
+    "update_time": 1762658646,
+    "_id": "饲料添加剂"
+  },
+  "Office Director": {
+    "chunk_ids": [
+      "chunk-24e47bfa872fdc7862d9134a6bef2e74"
+    ],
+    "count": 1,
+    "create_time": 1762658649,
+    "update_time": 1762658649,
+    "_id": "Office Director"
+  }
+}
